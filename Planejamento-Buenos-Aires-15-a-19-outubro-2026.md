@@ -26,8 +26,8 @@ Minha base preferida para esta viagem é Recoleta. Consulta no Hoteis.com em 28/
 | Hotel e quarto | Total flexível / média por noite | Cancelamento exibido | Alternativa não reembolsável |
 |---|---|---|---|
 | [Loi Suites Recoleta](https://www.hoteis.com/ho194557/loi-suites-recoleta-hotel-buenos-aires-argentina/?chkin=2026-10-15&chkout=2026-10-19&rm1=a2), Estúdio Júnior King, 25 m², café incluído | R$ 5.706 / R$ 1.426,50 | Grátis até 13/10, 23h59 local; depois primeira diária, impostos e taxas | R$ 5.142 |
-| [AQ Tailored Suites](https://www.hoteis.com/ho736907104/aq-tailored-suites-buenos-aires-argentina/?chkin=2026-10-15&chkout=2026-10-19&rm1=a2), Suíte Júnior King, 35 m², café incluído | R$ 7.437 / R$ 1.859,25 | Reembolso total até 10/10; horário-limite a conferir | R$ 6.700 |
-| [ARC Recoleta](https://www.hoteis.com/ho554658/arc-recoleta-boutique-hotel-spa-buenos-aires-argentina/?chkin=2026-10-15&chkout=2026-10-19&rm1=a2), Triplo Luxo King e sofá-cama, 34 m²; buffet listado no quarto, inclusão a confirmar no resumo final | R$ 6.999 / R$ 1.749,75 | Reembolso total até 13/10; horário-limite a conferir | R$ 5.265 |
+| [AQ Tailored Suites](https://www.hoteis.com/ho736907104/aq-tailored-suites-buenos-aires-argentina/?chkin=2026-10-15&chkout=2026-10-19&rm1=a2), Suíte Júnior King, 35 m², café incluído | R$ 7.437 / R$ 1.859,25 | Grátis até 10/10, 23h59 local; depois primeira diária, impostos e taxas | R$ 6.700 |
+| [ARC Recoleta](https://www.hoteis.com/ho554658/arc-recoleta-boutique-hotel-spa-buenos-aires-argentina/?chkin=2026-10-15&chkout=2026-10-19&rm1=a2), Triplo Luxo King e sofá-cama, 34 m²; buffet listado no quarto, inclusão a confirmar no resumo final | R$ 6.999 / R$ 1.749,75 | Grátis até 13/10, 18h local; depois primeira diária, impostos e taxas | R$ 5.265 |
 
 Escolheria o **Loi Suites flexível**, pelo equilíbrio de preço e localização, em Vicente López 1955. Nota 9,2/10 (864 avaliações), piscina interna e café incluído. O AQ tem mais espaço e nota 9,6/10 (632 avaliações), em Montevideo 937. O ARC, em Peña 2155, tem nota 9,0/10 (1.001 avaliações). As três tarifas flexíveis exibiam “reserve agora, pague depois”.
 
