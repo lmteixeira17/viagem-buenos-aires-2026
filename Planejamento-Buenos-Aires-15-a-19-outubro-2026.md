@@ -175,6 +175,10 @@ Outros preparativos:
 
 ## 8. Ordem das próximas decisões
 
+O [checklist publicado](https://lmteixeira17.github.io/viagem-paris-londres-2026/buenos-aires/#checklist) acompanha 37 etapas: decisões, reservas, documentos/voos/seguro, logística/malas, preparativos e retorno. Há seis confirmações iniciais: datas/voos registrados conforme comprovantes, dois adultos, preferências, teto de hotel, roteiro geral aprovado e pesquisa de hotéis concluída. Isso não confirma reservas em fornecedores.
+
+Conforme definirmos ou concluirmos cada etapa na conversa, o guia será atualizado com a baixa correspondente. Hotel escolhido é diferente de reserva concluída; pacote de tango escolhido é diferente de compra concluída. Hotel, tango, restaurantes e Colón continuam sem reserva. As confirmações publicadas aparecem em qualquer aparelho; marcações manuais ficam somente no navegador e não alteram o status compartilhado. Comprovantes e dados pessoais ficam fora da página pública.
+
 1. **Agora:** escolher entre Loi Suites, AQ Tailored e ARC nas tarifas consultadas no Hoteis.com; preferência pelo Loi Suites flexível. Conferir valor final antes de reservar.
 2. **Em paralelo:** consultar disponibilidade de Don Julio e alternativa La Cabrera; fechar almoço de domingo em San Telmo.
 3. **Depois de confirmar hotel e horários:** comprar visita do Colón de sexta às 11h45, se disponível, e reservar tango de sexta com traslado compatível.
