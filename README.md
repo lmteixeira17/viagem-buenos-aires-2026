@@ -2,7 +2,7 @@
 
 Guia estático de 15 a 19 de outubro de 2026, com a mesma proposta de leitura do projeto Paris–Londres: abas, dias expansíveis, busca, checklist local, mapas e impressão.
 
-Sem dependências e sem compilação. A página pública é `index.html`. Não publicar comprovantes, localizadores, documentos ou números de programas de fidelidade.
+Sem dependências e sem compilação. A página pública é `index.html`. Não publicar comprovantes ou localizadores de viagem, exceto o passe Indigo em estacionamento.html, cuja exibição aberta foi expressamente autorizada pelo usuário.
 
 Validação: `node check.mjs`. Abrir `index.html` em um navegador para uso local.
 
@@ -12,7 +12,7 @@ Fonte versionada: https://github.com/lmteixeira17/viagem-buenos-aires-2026
 
 A credencial disponível não tem permissão para ativar Pages no novo repositório (HTTP 403). A publicação reutiliza o Pages já ativo de `lmteixeira17/viagem-paris-londres-2026`, branch `main`, caminho `buenos-aires/index.html`. O `index.html` da raiz de Paris–Londres deve permanecer intacto.
 
-Para atualizar: validar e fazer commit/push neste repositório; publicar os mesmos bytes de `index.html` no caminho acima pela API de conteúdo do GitHub, informando o SHA do arquivo remoto ao atualizá-lo. Aguardar o build do Pages e comparar o conteúdo HTTP publicado com o arquivo local. Não publicar os documentos originais de viagem.
+Para atualizar: validar e fazer commit/push neste repositório; publicar os mesmos bytes de `index.html` no caminho acima pela API de conteúdo do GitHub, informando o SHA do arquivo remoto ao atualizá-lo. Aguardar o build do Pages e comparar o conteúdo HTTP publicado com o arquivo local. Não publicar outros documentos originais; o passe Indigo em estacionamento.html é a exceção autorizada pelo usuário.
 
 O checklist tem 38 etapas, com 13 confirmadas, incluindo escolha e reserva do AQ Tailored e do tango El Querandí no guia. As confirmações da conversa são publicadas no próprio HTML (`data-confirmed="true" checked disabled`) e aparecem em todos os aparelhos após atualizar a página. Marcar uma decisão não confirma a contratação: hotel escolhido e hotel reservado são etapas separadas, assim como pacote e reserva do tango. Só dar baixa em reservas após confirmação do fornecedor ou relato explícito do usuário.
 
