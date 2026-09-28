@@ -2,7 +2,7 @@
 
 Guia estático de 15 a 19 de outubro de 2026, com a mesma proposta de leitura do projeto Paris–Londres: abas, dias expansíveis, busca, checklist local, mapas e impressão.
 
-Sem dependências e sem compilação. A página pública é `index.html`. A aba “Acesso offline” guarda o roteiro e o passe do estacionamento no navegador de cada celular; comprovantes, contatos e mapas precisam ser salvos separadamente nos respectivos apps. Não publicar comprovantes ou localizadores de viagem, exceto o passe Indigo em `estacionamento.html`, cuja exibição aberta foi expressamente autorizada pelo usuário.
+Sem dependências e sem compilação. A página pública é `index.html`. A aba “Acesso offline” guarda o roteiro e o passe do estacionamento no navegador de cada celular, para reabrir no mesmo navegador; comprovantes, contatos e mapas precisam ser salvos separadamente nos respectivos apps. Não publicar comprovantes ou localizadores de viagem, exceto o passe Indigo em `estacionamento.html`, cuja exibição aberta foi expressamente autorizada pelo usuário.
 
 Validação: `node check.mjs`. Abrir `index.html` em um navegador para uso local.
 

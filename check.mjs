@@ -17,6 +17,7 @@ assert.equal(confirmedCount, 15);
 assert.equal(published.find(item => item.check === 'offline').status, 'Pendente', 'Preparação offline continua pendente até ser feita nos aparelhos');
 assert.equal(published.find(item => item.check === 'offline').revision, '2', 'Reabrir a etapa invalida marcações antigas');
 assert(html.includes('id="prepare-offline"') && html.includes('id="offline-status"'), 'Incluir botão e retorno acessível para preparar o celular');
+assert(html.includes('no mesmo navegador') && html.includes('aba anônima'), 'Explicar onde a cópia offline fica disponível');
 assert(!/\b\d{13}\b/.test(html), 'Não publicar localizador de reserva');
 for (const key of ['hotel', 'hotel-choice', 'tango', 'tango-choice', 'tango-transfer', 'flight-review', 'flight-prevention', 'baggage-allowance', 'brazil-transfer']) assert.equal(published.find(item => item.check === key).confirmed, 'true');
 for (const key of ['parrilla', 'sunday', 'colon', 'seats']) assert.notEqual(published.find(item => item.check === key).confirmed, 'true', 'Cotação não confirma reserva');
