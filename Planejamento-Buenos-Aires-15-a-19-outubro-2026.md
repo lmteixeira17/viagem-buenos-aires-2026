@@ -2,7 +2,7 @@
 
 Planejamento para duas pessoas, primeira visita, com foco em atrações clássicas, gastronomia e tango. Hotel: teto de R$ 2.000 por noite para o quarto. Sem restrições alimentares ou de mobilidade informadas. Pesquisa realizada em 28/09/2026.
 
-Este é um roteiro proposto. AQ Tailored confirmado pelo viajante e imagem da reserva em 28/09; El Querandí em 16/10 também confirmado e pago (US$ 220). Demais ingressos, restaurantes e detalhes de transporte seguem pendentes. Horários de passeios são sugestões; tarifas e vagas para as datas da viagem ainda precisam de confirmação. Os voos abaixo foram transcritos das imagens fornecidas, sem consulta à reserva da companhia.
+Este é um roteiro proposto. AQ Tailored confirmado por e-mail e conta em 28/09; El Querandí em 16/10 também confirmado e pago (US$ 220), com voucher recebido. Demais ingressos, restaurantes e detalhes de transporte seguem pendentes. Horários de passeios são sugestões; tarifas e vagas para as datas da viagem ainda precisam de confirmação. Os voos abaixo conferem com o e-mail da Azul de 22/09, que ainda dizia “Aguardando pagamento”. Na busca de 28/09 não foi localizada confirmação posterior de emissão. Isso não prova pendência atual: validar localizador e bilhetes na Azul pelo Mundo / Air Canada antes das próximas compras.
 
 ## 1. Datas e voos
 
@@ -21,9 +21,9 @@ O check-in online da Air Canada abre 24 horas antes: tentar em 14/10 às 11h35 e
 
 ## 2. Hospedagem
 
-**AQ Tailored Suites reservado**, em Montevideo 937. Entrada em 15/10/2026 às 15h e saída em 19/10/2026 às 11h, conforme imagem enviada e confirmação do viajante em 28/09.
+**AQ Tailored Suites reservado**, em Montevideo 937. Entrada em 15/10/2026 às 15h e saída em 19/10/2026 às 11h, conforme e-mail e conta conferidos em 28/09.
 
-Opção preparada: Suíte Júnior King de 35 m², café incluído, cozinha americana e cancelamento gratuito até 10/10 às 23h59 local; depois primeira diária mais impostos e taxas. Conferir categoria, inclusões e condições no comprovante definitivo: a imagem confirma apenas hotel e datas. Valores de pagamento, créditos e localizador permanecem privados.
+Reserva efetiva: uma Suíte Júnior para dois adultos, com tarifa **não reembolsável**. A opção flexível cotada anteriormente não se aplica. Cama King, metragem e café não estão discriminados no resumo final; confirmar essas inclusões com a propriedade. Imposto municipal informado: US$ 12 para o casal nas quatro noites, pago no hotel. A mensagem do AQ solicita documento físico de todos e cartão físico, preferencialmente o utilizado na reserva. Valores pagos, créditos e localizador permanecem privados.
 
 Nota consultada: 9,6/10, 632 avaliações. Piscina externa; perto da Avenida Santa Fe e do El Ateneo. Escolhido pelo conforto e espaço maior. Loi Suites e ARC foram alternativas consultadas, não reservadas.
 
@@ -51,7 +51,7 @@ Não colocar ingresso com horário fixo nesta tarde. Deixar a entrada no cemité
 - 14h–14h45: Obelisco e trecho da Avenida Corrientes.
 - 15h–16h: El Ateneo Grand Splendid, na Av. Santa Fe 1860; ir de carro se estiverem cansados.
 - Até 17h: retorno ao hotel e descanso.
-- Por volta de 19h: traslado para o jantar com tango; conferir AQ Tailored no voucher e confirmar horário exato da busca.
+- Por volta de 19h: traslado para o jantar com tango; AQ Tailored confirmado no voucher; recolha na região a partir de 19h, horário exato a combinar.
 - 19h30–22h45: El Querandí; jantar seguido do espetáculo. Reserva e pagamento confirmados para 16/10.
 
 O Colón informa visita com duração de 50 minutos e saídas em português às 11h45 e 16h. O percurso pode mudar por ensaios e apresentações. Há divergência entre páginas oficiais sobre o último horário do dia; o horário sugerido de 11h45 aparece nas duas. Confirmar no calendário da compra. [Visitas do Teatro Colón](https://teatrocolon.org.ar/guided-tours/).
@@ -111,9 +111,9 @@ Em 2026, o Dia das Mães argentino cai em 18/10. A celebração ocorre no tercei
 
 Na consulta direta ao [Don Julio / Meitre](https://donjulio.meitre.com/) em 28/09, para duas pessoas em 17/10, o jantar só oferecia 23h30. No almoço, apareceram 11h30, 12h, 13h30 e 15h. Minha proposta é **13h30**, seguida do passeio em Palermo e jantar leve. A etapa seguinte exige confirmação por e-mail; mesa ainda não reservada e horário sujeito a mudança. La Brigada recebe pedidos pelo WhatsApp oficial +54 9 11 3069-8361; proposta: 18/10 às 13h. Pedido ainda não enviado. O site do Fervor devolveu erro 403; não foi possível confirmar vagas.
 
-**El Querandí confirmado para 16/10/2026, com pagamento de US$ 220 aprovado**, conforme comprovante enviado pelo viajante. Opção preparada na conversa: jantar-show tradicional para dois adultos. O pacote anunciado inclui jantar de três etapas, bebidas e traslado compartilhado de ida e volta nas zonas atendidas. A promoção é não reembolsável conforme as condições anunciadas; guardar voucher e condições finais em local privado.
+**El Querandí confirmado para 16/10/2026, com pagamento de US$ 220 aprovado**. Voucher recebido por e-mail em 28/09 confirma Jantar Show Tradicional para duas pessoas. O próprio e-mail vale como voucher e não precisa ser impresso. O pacote anunciado inclui jantar de três etapas, bebidas e traslado compartilhado de ida e volta nas zonas atendidas. A promoção é não reembolsável conforme as condições anunciadas; guardar voucher e condições finais em local privado.
 
-Jantar a partir das 19h30; show das 21h30 às 22h45. AQ TAILORED SUITES RECOLETA aparece na lista oficial de hotéis: falta conferir seleção no voucher e combinar horário exato da busca e retorno. O comprovante de pagamento não traz esses detalhes. [Programa e contato oficial](https://querandi.com.ar/pt/).
+Jantar a partir das 19h30; show das 21h30 às 22h45. AQ TAILORED SUITES RECOLETA está registrado no voucher como hotel de retirada, com recolha na região a partir de 19h. Falta combinar horário exato da busca e instruções do retorno. [Programa e contato oficial](https://querandi.com.ar/pt/).
 
 Para provar ao longo da viagem: empanadas, provoleta, ojo de bife ou bife de chorizo, milanesa, medialunas, alfajores, sorvete e um vinho argentino escolhido conforme o gosto de vocês. Intercalar refeições mais leves; não há necessidade de fazer parrilla todos os dias. Conferir o tamanho dos cortes antes de pedir duas porções.
 
@@ -171,9 +171,9 @@ O [checklist publicado](https://lmteixeira17.github.io/viagem-paris-londres-2026
 
 Conforme definirmos ou concluirmos cada etapa na conversa, o guia será atualizado com a baixa correspondente. Hotel escolhido é diferente de reserva concluída; pacote de tango escolhido é diferente de compra concluída. Hotel e tango confirmados; restaurantes e Colón continuam sem reserva. As confirmações publicadas aparecem em qualquer aparelho; marcações manuais ficam somente no navegador e não alteram o status compartilhado. Comprovantes e dados pessoais ficam fora da página pública.
 
-1. **Agora:** finalizar Don Julio; proposta de 17/10 às 13h30 para dois, sujeita à disponibilidade. Hotel e tango já confirmados.
-2. **Em paralelo:** consultar disponibilidade de Don Julio e alternativa La Cabrera; fechar almoço de domingo em San Telmo.
-3. **Depois de confirmar horários:** comprar visita do Colón de sexta às 11h45, se disponível, e conferir no voucher do tango a retirada no AQ Tailored e o horário exato.
+1. **Agora:** validar emissão dos voos com Azul pelo Mundo / Air Canada. Só foi localizado o e-mail de 22/09 com “Aguardando pagamento”; estado atual não verificado. Hotel e tango já confirmados.
+2. **Depois da emissão conferida:** finalizar Don Julio, proposta de 17/10 às 13h30 para dois, sujeita à disponibilidade; fechar almoço de domingo em San Telmo. Em 28/09, o Meitre permanecia no campo de e-mail vazio e não havia mensagem localizada, inclusive spam/lixeira. Não há mesa confirmada.
+3. **Depois de confirmar horários:** comprar visita do Colón de sexta às 11h45, se disponível, e combinar o horário exato da retirada e o retorno do tango; AQ Tailored já consta no voucher.
 4. **Ainda antes da viagem:** emitir seguro, configurar Uber/Cabify e definir a quantidade de malas; contratar veículo maior se necessário e ajustar conectividade.
 5. **Entre 8 e 12/10:** verificar clima, horários das atrações e qualquer alteração dos voos; reconfirmar restaurantes, tango, documentos e procedimento migratório.
 6. **14/10:** check-in online a partir de 11h35, documentos offline e internet preparada para pedir o carro em Ezeiza.

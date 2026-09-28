@@ -20,4 +20,6 @@ As marcações manuais são locais e identificadas como “Marcado neste aparelh
 
 A cada decisão confirmada pelo usuário nesta conversa, atualizar o item correspondente, validar e republicar. Isso é manutenção durante a conversa, sem monitoramento ou automação recorrente.
 
+Conferência de e-mails e conta em 28/09/2026: AQ Tailored reservado com tarifa não reembolsável; voucher do tango recebido, duas pessoas e retirada no AQ Tailored. Emissão aérea ainda não validada: único e-mail localizado de 22/09 dizia “Aguardando pagamento”. Don Julio segue sem reserva; campo de e-mail vazio no Meitre.
+
 Pesquisa e planejamento: 28/09/2026. O teto de hotel é R$ 2.000 por noite; Uber/Cabify são a primeira opção de transporte aeroportuário, respeitando a capacidade de bagagem.
