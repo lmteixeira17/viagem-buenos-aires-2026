@@ -2,7 +2,7 @@
 
 Planejamento para duas pessoas, primeira visita, com foco em atrações clássicas, gastronomia e tango. Hotel: teto de R$ 2.000 por noite para o quarto. Sem restrições alimentares ou de mobilidade informadas. Pesquisa realizada em 28/09/2026.
 
-Este é um roteiro proposto. Nenhum hotel, ingresso, restaurante ou transporte foi reservado. Horários de passeios são sugestões; tarifas e vagas para as datas da viagem ainda precisam de confirmação. Os voos abaixo foram transcritos das imagens fornecidas, sem consulta à reserva da companhia.
+Este é um roteiro proposto. AQ Tailored confirmado pelo viajante e imagem da reserva em 28/09; ingressos, restaurantes, tango e transportes seguem pendentes. Horários de passeios são sugestões; tarifas e vagas para as datas da viagem ainda precisam de confirmação. Os voos abaixo foram transcritos das imagens fornecidas, sem consulta à reserva da companhia.
 
 ## 1. Datas e voos
 
@@ -21,21 +21,11 @@ O check-in online da Air Canada abre 24 horas antes: tentar em 14/10 às 11h35 e
 
 ## 2. Hospedagem
 
-Minha base preferida para esta viagem é Recoleta. Consulta no Hoteis.com em 28/09/2026, sem login, para 15–19/10, um quarto e dois adultos. Nenhum quarto reservado; valores e disponibilidade podem mudar.
+**AQ Tailored Suites reservado**, em Montevideo 937. Entrada em 15/10/2026 às 15h e saída em 19/10/2026 às 11h, conforme imagem enviada e confirmação do viajante em 28/09.
 
-| Hotel e quarto | Total flexível / média por noite | Cancelamento exibido | Alternativa não reembolsável |
-|---|---|---|---|
-| [Loi Suites Recoleta](https://www.hoteis.com/ho194557/loi-suites-recoleta-hotel-buenos-aires-argentina/?chkin=2026-10-15&chkout=2026-10-19&rm1=a2), Estúdio Júnior King, 25 m², café incluído | R$ 5.706 / R$ 1.426,50 | Grátis até 13/10, 23h59 local; depois primeira diária, impostos e taxas | R$ 5.142 |
-| [AQ Tailored Suites](https://www.hoteis.com/ho736907104/aq-tailored-suites-buenos-aires-argentina/?chkin=2026-10-15&chkout=2026-10-19&rm1=a2), Suíte Júnior King, 35 m², café incluído | R$ 7.437 / R$ 1.859,25 | Grátis até 10/10, 23h59 local; depois primeira diária, impostos e taxas | R$ 6.700 |
-| [ARC Recoleta](https://www.hoteis.com/ho554658/arc-recoleta-boutique-hotel-spa-buenos-aires-argentina/?chkin=2026-10-15&chkout=2026-10-19&rm1=a2), Triplo Luxo King e sofá-cama, 34 m²; buffet listado no quarto, inclusão a confirmar no resumo final | R$ 6.999 / R$ 1.749,75 | Grátis até 13/10, 18h local; depois primeira diária, impostos e taxas | R$ 5.265 |
+Opção preparada: Suíte Júnior King de 35 m², café incluído, cozinha americana e cancelamento gratuito até 10/10 às 23h59 local; depois primeira diária mais impostos e taxas. Conferir categoria, inclusões e condições no comprovante definitivo: a imagem confirma apenas hotel e datas. Valores de pagamento, créditos e localizador permanecem privados.
 
-Escolheria o **Loi Suites flexível**, pelo equilíbrio de preço e localização, em Vicente López 1955. Nota 9,2/10 (864 avaliações), piscina interna e café incluído. O AQ tem mais espaço e nota 9,6/10 (632 avaliações), em Montevideo 937. O ARC, em Peña 2155, tem nota 9,0/10 (1.001 avaliações). As três tarifas flexíveis exibiam “reserve agora, pague depois”.
-
-Na seleção original, **MIO estava indisponível no Hoteis.com** e **Palladio custava R$ 10.587**, acima do teto. Os totais acima são os exibidos na plataforma, não um checkout concluído. Conferir detalhamento de taxas, imposto municipal, IVA e moeda do pagamento antes de fechar; não somar ou descontar impostos automaticamente.
-
-Critérios da reserva: um quarto para dois adultos, quatro noites, cama de casal, café da manhã, quarto silencioso e política de cancelamento clara. Comparar o total das quatro noites, moeda de cobrança, impostos/taxas locais, custos do pagamento e prazo da tarifa reembolsável. Verificar se a piscina está em operação em outubro antes de usá-la como critério.
-
-Existe regime de reintegro de IVA sobre hospedagem para turistas estrangeiros elegíveis, com requisitos de documentação, estabelecimento e pagamento — por exemplo, cartão internacional emitido no exterior. Pedir ao hotel o valor final aplicável e não descontar automaticamente 21% do preço exibido. [Regra da ARCA](https://biblioteca.arca.gob.ar/search/query/norma.aspx?p=t%3ARAG%7Cn%3A3971%7Co%3A3%7Ca%3A2016%7Cf%3A28%2F12%2F2016).
+Nota consultada: 9,6/10, 632 avaliações. Piscina externa; perto da Avenida Santa Fe e do El Ateneo. Escolhido pelo conforto e espaço maior. Loi Suites e ARC foram alternativas consultadas, não reservadas.
 
 ## 3. Roteiro diário
 
@@ -175,13 +165,13 @@ Outros preparativos:
 
 ## 8. Ordem das próximas decisões
 
-O [checklist publicado](https://lmteixeira17.github.io/viagem-paris-londres-2026/buenos-aires/#checklist) acompanha 37 etapas: decisões, reservas, documentos/voos/seguro, logística/malas, preparativos e retorno. Há seis confirmações iniciais: datas/voos registrados conforme comprovantes, dois adultos, preferências, teto de hotel, roteiro geral aprovado e pesquisa de hotéis concluída. Isso não confirma reservas em fornecedores.
+O [checklist publicado](https://lmteixeira17.github.io/viagem-paris-londres-2026/buenos-aires/#checklist) acompanha 37 etapas: decisões, reservas, documentos/voos/seguro, logística/malas, preparativos e retorno. Há oito confirmações: hotel escolhido e reservado, além de datas/voos registrados conforme comprovantes, dois adultos, preferências, teto de hotel, roteiro geral aprovado e pesquisa de hotéis concluída. Apenas o hotel possui confirmação de reserva até o momento.
 
-Conforme definirmos ou concluirmos cada etapa na conversa, o guia será atualizado com a baixa correspondente. Hotel escolhido é diferente de reserva concluída; pacote de tango escolhido é diferente de compra concluída. Hotel, tango, restaurantes e Colón continuam sem reserva. As confirmações publicadas aparecem em qualquer aparelho; marcações manuais ficam somente no navegador e não alteram o status compartilhado. Comprovantes e dados pessoais ficam fora da página pública.
+Conforme definirmos ou concluirmos cada etapa na conversa, o guia será atualizado com a baixa correspondente. Hotel escolhido é diferente de reserva concluída; pacote de tango escolhido é diferente de compra concluída. Hotel confirmado; tango, restaurantes e Colón continuam sem reserva. As confirmações publicadas aparecem em qualquer aparelho; marcações manuais ficam somente no navegador e não alteram o status compartilhado. Comprovantes e dados pessoais ficam fora da página pública.
 
-1. **Agora:** escolher entre Loi Suites, AQ Tailored e ARC nas tarifas consultadas no Hoteis.com; preferência pelo Loi Suites flexível. Conferir valor final antes de reservar.
+1. **Agora:** reservar El Querandí em 16/10. AQ TAILORED SUITES RECOLETA aparece na lista oficial do traslado; confirmar horário. Tradicional cotado a US$ 220 para dois, ainda sem compra.
 2. **Em paralelo:** consultar disponibilidade de Don Julio e alternativa La Cabrera; fechar almoço de domingo em San Telmo.
-3. **Depois de confirmar hotel e horários:** comprar visita do Colón de sexta às 11h45, se disponível, e reservar tango de sexta com traslado compatível.
+3. **Depois de confirmar horários:** comprar visita do Colón de sexta às 11h45, se disponível, e reservar tango de sexta com traslado compatível.
 4. **Ainda antes da viagem:** emitir seguro, configurar Uber/Cabify e definir a quantidade de malas; contratar veículo maior se necessário e ajustar conectividade.
 5. **Entre 8 e 12/10:** verificar clima, horários das atrações e qualquer alteração dos voos; reconfirmar restaurantes, tango, documentos e procedimento migratório.
 6. **14/10:** check-in online a partir de 11h35, documentos offline e internet preparada para pedir o carro em Ezeiza.
