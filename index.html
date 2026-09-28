@@ -122,6 +122,7 @@ function showSection() {
 window.addEventListener('hashchange', showSection);
 window.addEventListener('popstate', showSection);
 document.querySelectorAll('a[href^="#"]').forEach(link => link.addEventListener('click', event => {
+  if (link.hash === '#conteudo') { event.preventDefault(); document.getElementById('conteudo').focus(); return; }
   const target = panels.find(panel => '#' + panel.id === link.hash);
   if (!target) return;
   event.preventDefault();
