@@ -1,0 +1,8 @@
+# Comprovantes e outros documentos de viagem ficam apenas no computador.
+*.pdf
+*.png
+*.jpg
+*.jpeg
+*.docx
+*.xlsx
+*.tmp
