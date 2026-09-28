@@ -2,7 +2,7 @@
 
 Planejamento para duas pessoas, primeira visita, com foco em atrações clássicas, gastronomia e tango. Hotel: teto de R$ 2.000 por noite para o quarto. Sem restrições alimentares ou de mobilidade informadas. Pesquisa realizada em 28/09/2026.
 
-Este é um roteiro proposto. AQ Tailored confirmado por e-mail e conta em 28/09; El Querandí em 16/10 também confirmado e pago (US$ 220), com voucher recebido. Demais ingressos, restaurantes e detalhes de transporte seguem pendentes. Horários de passeios são sugestões; tarifas e vagas para as datas da viagem ainda precisam de confirmação. Os voos abaixo conferem com o e-mail da Azul de 22/09, que ainda dizia “Aguardando pagamento”. Na busca de 28/09 não foi localizada confirmação posterior de emissão. Isso não prova pendência atual: validar localizador e bilhetes na Azul pelo Mundo / Air Canada antes das próximas compras.
+Este é um roteiro proposto. AQ Tailored confirmado por e-mail e conta em 28/09; El Querandí em 16/10 também confirmado e pago (US$ 220), com voucher recebido. Demais ingressos, restaurantes e detalhes de transporte seguem pendentes. Horários de passeios são sugestões; tarifas e vagas para as datas da viagem ainda precisam de confirmação. Consulta autenticada em 28/09 na Azul pelo Mundo e na Air Canada: bilhetes dos dois passageiros identificados e ida/volta com status Confirmed, Business Class Standard. Datas, horários e aeroportos conferidos. A Azul também exibe “Status Prevenção: PENDENTE”, sem explicar o efeito; esclarecer com a emissora. A confirmação da Air Canada substitui o alerta baseado no e-mail antigo.
 
 ## 1. Datas e voos
 
@@ -13,7 +13,7 @@ Este é um roteiro proposto. AQ Tailored confirmado por e-mail e conta em 28/09;
 
 São quatro noites de hotel, com entrada em 15/10 e saída em 19/10. Há três dias completos de passeios: sexta, sábado e domingo. A quinta permite um passeio curto depois do desembarque; a segunda deve ficar para café da manhã, malas e aeroporto.
 
-Os comprovantes mostram duas peças de bagagem por pessoa, mas não indicam o peso de cada peça. Conferir peso, dimensões, bagagem de mão, assentos e benefícios de lounge na reserva emitida. Se forem levar as quatro malas despachadas, contratar veículo com porta-malas compatível — informar também a bagagem de mão.
+Conferido na Air Canada para os dois, na ida e volta: duas malas despachadas gratuitas de até 32 kg cada, soma das dimensões até 158 cm. Bagagem de mão: 55 × 40 × 23 cm; item pessoal: 43 × 33 × 16 cm. A mala de mão deve ser colocada no compartimento superior sem ajuda; item pessoal sob o assento. Assentos ainda não atribuídos para nenhum dos dois nos dois trechos; seleção online desabilitada. Consultar a emissora para marcar juntos e esclarecer o aviso de prevenção. Conferir benefícios de lounge. Nomes na reserva conferem com o e-mail anterior; comparação com documentos físicos permanece pendente. Se forem levar as quatro malas despachadas, contratar veículo com porta-malas compatível — informar também a bagagem de mão.
 
 Para planejar com folga, chegar a GRU por volta de 7h30 na ida. Na volta, sair do hotel aproximadamente às 11h e buscar chegar a EZE até 12h35. Essa antecedência de quatro horas é uma margem conservadora deste roteiro; observar qualquer instrução específica da companhia. Não confundir Ezeiza (EZE) com Aeroparque (AEP).
 
@@ -167,12 +167,12 @@ Outros preparativos:
 
 ## 8. Ordem das próximas decisões
 
-O [checklist publicado](https://lmteixeira17.github.io/viagem-paris-londres-2026/buenos-aires/#checklist) acompanha 37 etapas: decisões, reservas, documentos/voos/seguro, logística/malas, preparativos e retorno. Há dez confirmações: hotel escolhido e reservado, tango definido e reserva paga, além de datas/voos registrados conforme comprovantes, dois adultos, preferências, teto de hotel, roteiro geral aprovado e pesquisa de hotéis concluída. Hotel e tango possuem confirmação de reserva.
+O [checklist publicado](https://lmteixeira17.github.io/viagem-paris-londres-2026/buenos-aires/#checklist) acompanha 38 etapas: decisões, reservas, documentos/voos/seguro, logística/malas, preparativos e retorno. Há doze confirmações: bilhetes/voos e franquia de bagagem conferidos na Air Canada, hotel escolhido e reservado, tango definido e reserva paga, além de datas/voos registrados conforme comprovantes, dois adultos, preferências, teto de hotel, roteiro geral aprovado e pesquisa de hotéis concluída. Hotel e tango possuem confirmação de reserva.
 
 Conforme definirmos ou concluirmos cada etapa na conversa, o guia será atualizado com a baixa correspondente. Hotel escolhido é diferente de reserva concluída; pacote de tango escolhido é diferente de compra concluída. Hotel e tango confirmados; restaurantes e Colón continuam sem reserva. As confirmações publicadas aparecem em qualquer aparelho; marcações manuais ficam somente no navegador e não alteram o status compartilhado. Comprovantes e dados pessoais ficam fora da página pública.
 
-1. **Agora:** validar emissão dos voos com Azul pelo Mundo / Air Canada. Só foi localizado o e-mail de 22/09 com “Aguardando pagamento”; estado atual não verificado. Hotel e tango já confirmados.
-2. **Depois da emissão conferida:** finalizar Don Julio, proposta de 17/10 às 13h30 para dois, sujeita à disponibilidade; fechar almoço de domingo em San Telmo. Em 28/09, o Meitre permanecia no campo de e-mail vazio e não havia mensagem localizada, inclusive spam/lixeira. Não há mesa confirmada.
+1. **Agora:** consultar a Azul sobre o aviso de prevenção e a marcação de assentos. Air Canada confirma os dois voos e os bilhetes dos dois passageiros. Hotel e tango também confirmados.
+2. **Próximas reservas:** finalizar Don Julio, proposta de 17/10 às 13h30 para dois, sujeita à disponibilidade; fechar almoço de domingo em San Telmo. Em 28/09, o Meitre permanecia no campo de e-mail vazio e não havia mensagem localizada, inclusive spam/lixeira. Não há mesa confirmada.
 3. **Depois de confirmar horários:** comprar visita do Colón de sexta às 11h45, se disponível, e combinar o horário exato da retirada e o retorno do tango; AQ Tailored já consta no voucher.
 4. **Ainda antes da viagem:** emitir seguro, configurar Uber/Cabify e definir a quantidade de malas; contratar veículo maior se necessário e ajustar conectividade.
 5. **Entre 8 e 12/10:** verificar clima, horários das atrações e qualquer alteração dos voos; reconfirmar restaurantes, tango, documentos e procedimento migratório.

@@ -9,14 +9,14 @@ for (const [, target] of html.matchAll(/href="#([^"]+)"/g)) assert(ids.includes(
 assert.equal((html.match(/<details class="day"/g) || []).length, 5);
 assert.equal((html.match(/class="panel"/g) || []).length, 7);
 const keys = [...html.matchAll(/data-check="([^"]+)"/g)].map(match => match[1]);
-assert.equal(keys.length, 37);
+assert.equal(keys.length, 38);
 assert.equal(new Set(keys).size, keys.length, 'Chaves do checklist duplicadas');
 const published = [...html.matchAll(/<input type="checkbox"([^>]+)>/g)].map(([, attributes]) => Object.fromEntries([...attributes.matchAll(/data-([\w-]+)="([^"]*)"/g)].map(([, key, value]) => [key, value])));
 const confirmedCount = published.filter(item => item.confirmed === 'true').length;
-assert.equal(confirmedCount, 10);
+assert.equal(confirmedCount, 12);
 assert(!/\b\d{13}\b/.test(html), 'Não publicar localizador de reserva');
-for (const key of ['hotel', 'hotel-choice', 'tango', 'tango-choice']) assert.equal(published.find(item => item.check === key).confirmed, 'true');
-for (const key of ['parrilla', 'sunday', 'colon', 'tango-transfer']) assert.notEqual(published.find(item => item.check === key).confirmed, 'true', 'Cotação não confirma reserva');
+for (const key of ['hotel', 'hotel-choice', 'tango', 'tango-choice', 'flight-review', 'baggage-allowance']) assert.equal(published.find(item => item.check === key).confirmed, 'true');
+for (const key of ['parrilla', 'sunday', 'colon', 'tango-transfer', 'flight-prevention', 'seats']) assert.notEqual(published.find(item => item.check === key).confirmed, 'true', 'Cotação não confirma reserva');
 for (const key of ['documents', 'hotel', 'parrilla', 'sunday', 'colon', 'tango', 'insurance', 'transport', 'internet', 'reconfirm', 'outbound', 'inbound']) assert(keys.includes(key), 'Preservar chaves do checklist anterior');
 assert(!/9875622342|JANAINA MARTINS|LUIS TEIXEIRA|codex-clipboard|MYTTTV|Navigo/i.test(html), 'Dados privados ou conteúdo da viagem anterior');
 assert(html.includes('2026, 9, 15') && html.includes('2026, 9, 19'));
