@@ -21,15 +21,17 @@ O check-in online da Air Canada abre 24 horas antes: tentar em 14/10 às 11h35 e
 
 ## 2. Hospedagem
 
-Minha base preferida para esta viagem é Recoleta: permite passeios a pé e deslocamentos razoáveis tanto ao Centro quanto a Palermo. A seleção abaixo prioriza localização e conforto; não é uma cotação nem confirmação de enquadramento no teto para 15–19/10.
+Minha base preferida para esta viagem é Recoleta. Consulta no Hoteis.com em 28/09/2026, sem login, para 15–19/10, um quarto e dois adultos. Nenhum quarto reservado; valores e disponibilidade podem mudar.
 
-| Ordem de cotação | Hotel | Por que considerar | O que comparar |
+| Hotel e quarto | Total flexível / média por noite | Cancelamento exibido | Alternativa não reembolsável |
 |---|---|---|---|
-| 1 | [MIO Buenos Aires](https://miobuenosaires.com/es/) | Hotel boutique na Av. Presidente Manuel Quintana 465; boa posição para a parte turística de Recoleta | Categoria, café, configuração do banheiro e preço final |
-| 2 | [Palladio Hotel Buenos Aires — MGallery](https://mgallery.accor.com/pt-br/hotels/B1R7.html) | Estrutura com spa e restaurante; Av. Callao 924, perto do eixo do Ateneo | Quarto silencioso, café e condições de cancelamento |
-| 3 | [ARC Recoleta Boutique Hotel & Spa](https://arcrecoleta.com.ar/) | Alternativa em Peña 2155, com quartos amplos e spa | Diferença de preço frente aos dois primeiros e categoria |
+| [Loi Suites Recoleta](https://www.hoteis.com/ho194557/loi-suites-recoleta-hotel-buenos-aires-argentina/?chkin=2026-10-15&chkout=2026-10-19&rm1=a2), Estúdio Júnior King, 25 m², café incluído | R$ 5.706 / R$ 1.426,50 | Grátis até 13/10, 23h59 local; depois primeira diária, impostos e taxas | R$ 5.142 |
+| [AQ Tailored Suites](https://www.hoteis.com/ho736907104/aq-tailored-suites-buenos-aires-argentina/?chkin=2026-10-15&chkout=2026-10-19&rm1=a2), Suíte Júnior King, 35 m², café incluído | R$ 7.437 / R$ 1.859,25 | Reembolso total até 10/10; horário-limite a conferir | R$ 6.700 |
+| [ARC Recoleta](https://www.hoteis.com/ho554658/arc-recoleta-boutique-hotel-spa-buenos-aires-argentina/?chkin=2026-10-15&chkout=2026-10-19&rm1=a2), Triplo Luxo King e sofá-cama, 34 m²; buffet listado no quarto, inclusão a confirmar no resumo final | R$ 6.999 / R$ 1.749,75 | Reembolso total até 13/10; horário-limite a conferir | R$ 5.265 |
 
-Se os valores finais forem próximos, escolheria o MIO pela posição para esta primeira visita; o Palladio é uma alternativa muito interessante para quem valoriza estrutura de hotel. Não há necessidade de gastar todo o teto se uma categoria adequada custar menos.
+Escolheria o **Loi Suites flexível**, pelo equilíbrio de preço e localização, em Vicente López 1955. Nota 9,2/10 (864 avaliações), piscina interna e café incluído. O AQ tem mais espaço e nota 9,6/10 (632 avaliações), em Montevideo 937. O ARC, em Peña 2155, tem nota 9,0/10 (1.001 avaliações). As três tarifas flexíveis exibiam “reserve agora, pague depois”.
+
+Na seleção original, **MIO estava indisponível no Hoteis.com** e **Palladio custava R$ 10.587**, acima do teto. Os totais acima são os exibidos na plataforma, não um checkout concluído. Conferir detalhamento de taxas, imposto municipal, IVA e moeda do pagamento antes de fechar; não somar ou descontar impostos automaticamente.
 
 Critérios da reserva: um quarto para dois adultos, quatro noites, cama de casal, café da manhã, quarto silencioso e política de cancelamento clara. Comparar o total das quatro noites, moeda de cobrança, impostos/taxas locais, custos do pagamento e prazo da tarifa reembolsável. Verificar se a piscina está em operação em outubro antes de usá-la como critério.
 
@@ -117,9 +119,9 @@ Em 2026, o Dia das Mães argentino cai em 18/10. A celebração ocorre no tercei
 | Tango | [El Querandí](https://querandi.com.ar/pt/) | Sexta à noite |
 | Café histórico | [Café Tortoni](https://turismo.buenosaires.gob.ar/en/node/41006) | Sexta cedo; flexível se houver fila |
 
-No Don Julio, a dificuldade de obter mesa é mencionada pelo próprio Guia Michelin. Priorizar uma reserva compatível com o roteiro, sem gastar horas da viagem em fila. [Guia Michelin](https://guide.michelin.com/us/en/ciudad-autonoma-de-buenos-aires/buenos-aires_777009/restaurant/don-julio).
+Na consulta direta ao [Don Julio / Meitre](https://donjulio.meitre.com/) em 28/09, para duas pessoas em 17/10, o jantar só oferecia 23h30. No almoço, apareceram 11h30, 12h, 13h30 e 15h. Minha proposta é **13h30**, seguida do passeio em Palermo e jantar leve. A etapa seguinte exige confirmação por e-mail; mesa ainda não reservada e horário sujeito a mudança. La Brigada recebe pedidos pelo WhatsApp oficial +54 9 11 3069-8361; proposta: 18/10 às 13h. Pedido ainda não enviado. O site do Fervor devolveu erro 403; não foi possível confirmar vagas.
 
-Minha escolha para a primeira experiência de tango é o jantar-show tradicional do El Querandí, pela praticidade de reunir refeição, espetáculo e traslado. A página consultada anuncia US$ 110 por pessoa no tradicional e US$ 170 no VIP, em promoção; para dois, US$ 220 ou US$ 340. Esses valores não confirmam disponibilidade nem validade para 16/10. Confirmar moeda, taxas, cancelamento, mesa e traslado do hotel escolhido. As tarifas promocionais indicadas no site podem ser não reembolsáveis. O show começa às 21h30, dura 75 minutos e termina às 22h45. [Programa e condições](https://querandi.com.ar/).
+Minha escolha é o jantar-show tradicional do El Querandí. O [formulário oficial](https://reservas.querandi.com.ar/pt?servicioId=1&arg=0) aceitou 16/10/2026 e calculou **US$ 220 para dois adultos**, residentes no Brasil. Isso é uma cotação, ainda sem reserva ou garantia de lugares. O pacote publicado inclui jantar de três etapas, bebidas e traslado compartilhado de ida e volta nas zonas atendidas. A promoção é **não reembolsável**, conforme FAQ oficial. É preciso informar contatos e hotel de retirada e conferir condições finais. Jantar a partir de 19h30 e show das 21h30 às 22h45. O VIP segue como alternativa anunciada de US$ 340 para dois, sem simulação para a data. [Programa e condições](https://querandi.com.ar/pt/).
 
 Para provar ao longo da viagem: empanadas, provoleta, ojo de bife ou bife de chorizo, milanesa, medialunas, alfajores, sorvete e um vinho argentino escolhido conforme o gosto de vocês. Intercalar refeições mais leves; não há necessidade de fazer parrilla todos os dias. Conferir o tamanho dos cortes antes de pedir duas porções.
 
@@ -173,7 +175,7 @@ Outros preparativos:
 
 ## 8. Ordem das próximas decisões
 
-1. **Agora:** conferir documentos e cotar MIO, Palladio e ARC para 15–19/10, duas pessoas, com total final e cancelamento. Escolher o hotel.
+1. **Agora:** escolher entre Loi Suites, AQ Tailored e ARC nas tarifas consultadas no Hoteis.com; preferência pelo Loi Suites flexível. Conferir valor final antes de reservar.
 2. **Em paralelo:** consultar disponibilidade de Don Julio e alternativa La Cabrera; fechar almoço de domingo em San Telmo.
 3. **Depois de confirmar hotel e horários:** comprar visita do Colón de sexta às 11h45, se disponível, e reservar tango de sexta com traslado compatível.
 4. **Ainda antes da viagem:** emitir seguro, configurar Uber/Cabify e definir a quantidade de malas; contratar veículo maior se necessário e ajustar conectividade.
