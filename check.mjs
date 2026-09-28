@@ -13,13 +13,17 @@ assert.equal(keys.length, 38);
 assert.equal(new Set(keys).size, keys.length, 'Chaves do checklist duplicadas');
 const published = [...html.matchAll(/<input type="checkbox"([^>]+)>/g)].map(([, attributes]) => Object.fromEntries([...attributes.matchAll(/data-([\w-]+)="([^"]*)"/g)].map(([, key, value]) => [key, value])));
 const confirmedCount = published.filter(item => item.confirmed === 'true').length;
-assert.equal(confirmedCount, 15);
+assert.equal(confirmedCount, 16);
 assert.equal(published.find(item => item.check === 'offline').status, 'Pendente', 'Preparação offline continua pendente até ser feita nos aparelhos');
 assert.equal(published.find(item => item.check === 'offline').revision, '2', 'Reabrir a etapa invalida marcações antigas');
 assert(html.includes('id="prepare-offline"') && html.includes('id="offline-status"'), 'Incluir botão e retorno acessível para preparar o celular');
 assert(html.includes('no mesmo navegador') && html.includes('aba anônima'), 'Explicar onde a cópia offline fica disponível');
 assert(!/\b\d{13}\b/.test(html), 'Não publicar localizador de reserva');
-for (const key of ['hotel', 'hotel-choice', 'tango', 'tango-choice', 'tango-transfer', 'flight-review', 'flight-prevention', 'baggage-allowance', 'brazil-transfer']) assert.equal(published.find(item => item.check === key).confirmed, 'true');
+for (const key of ['hotel', 'hotel-choice', 'tango', 'tango-choice', 'tango-transfer', 'flight-review', 'flight-prevention', 'baggage-allowance', 'transport', 'brazil-transfer']) assert.equal(published.find(item => item.check === key).confirmed, 'true');
+assert.equal(published.find(item => item.check === 'transport').revision, '2', 'Atualizar a decisão invalida marcações locais antigas');
+assert(html.includes('uma mala grande e duas pequenas') && html.includes('Uber convencional'), 'Registrar bagagem e transporte informados pelo viajante');
+assert(!html.includes('quatro malas grandes'), 'Remover orientação de categoria maior baseada em bagagem antiga');
+assert(html.includes('Abrir passe Indigo (sem senha)'), 'Instrução do passe deve corresponder ao acesso aberto');
 for (const key of ['parrilla', 'sunday', 'colon', 'seats']) assert.notEqual(published.find(item => item.check === key).confirmed, 'true', 'Cotação não confirma reserva');
 for (const key of ['documents', 'hotel', 'parrilla', 'sunday', 'colon', 'tango', 'insurance', 'transport', 'internet', 'reconfirm', 'outbound', 'inbound']) assert(keys.includes(key), 'Preservar chaves do checklist anterior');
 assert(!/9875622342|JANAINA MARTINS|LUIS TEIXEIRA|codex-clipboard|MYTTTV|Navigo/i.test(html), 'Dados privados ou conteúdo da viagem anterior');
@@ -50,6 +54,7 @@ function runGuide(initialStorage = '{}', unavailableStorage = false, revisions =
   return { elements, panels, links, days, checks, events, location, storage: () => storage };
 }
 const app = runGuide();
+assert.equal(app.checks.find(check => check.dataset.check === 'transport').disabled, true, 'Transporte confirmado aparece como concluído no guia');
 assert.equal(app.panels.filter(panel => !panel.hidden).length, 1);
 app.links[5].listeners.click({ preventDefault() {} });
 assert.equal(app.location.hash, '#checklist');
