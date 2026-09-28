@@ -97,7 +97,7 @@ Em 2026, o Dia das Mães argentino cai em 18/10. A celebração ocorre no tercei
 - 11h: saída prevista para Ezeiza. Antecipar se o hotel ou motorista identificar trânsito anormal.
 - Até 12h35: chegada desejada ao aeroporto, com margem para procedimentos e almoço.
 - 16h35: partida prevista do voo Air Canada 91.
-- 19h15: chegada prevista a GRU. Após imigração e malas, retirar o carro. Cotação do estacionamento considera saída até 21h; reserva ainda pendente.
+- 19h15: chegada prevista a GRU. Após imigração e malas, retirar o carro. Estacionamento reservado até 21h; usar o mesmo QR Code para sair.
 
 ## 4. Gastronomia e tango: escolhas práticas
 
@@ -119,7 +119,7 @@ Para provar ao longo da viagem: empanadas, provoleta, ojo de bife ou bife de cho
 
 ## 5. Deslocamentos e dinheiro
 
-**Guarulhos: preferência confirmada por estacionamento dentro do aeroporto.** Cotação oficial Indigo em 28/09/2026: edifício-garagem coberto do Terminal 3 por **R$ 561,75 no total**, de **15/10 às 7h até 19/10 às 21h**. É a recomendação pela proximidade ao terminal listado para a Air Canada. T3 Flex: mesmo preço; T2 Standard: R$ 378,00. Reconfirmar terminal e valor antes de concluir. Formulário preparado, mas faltam dados do carro (placa, fabricante, modelo e cor), revisão das condições finais e pagamento. Não há reserva nem QR Code emitido. Depois de contratar, salvar QR Code offline e apresentá-lo mesmo se a TAG abrir a cancela; a FAQ orienta isso para evitar cobrança pela TAG. Excedentes são pagos no caixa. [Reservar na Indigo](https://indigoneo.com.br/pt/booking/99980448) · [Estacionamento oficial GRU](https://www.gru.com.br/pt/passageiro/como-chegar-sair/estacionamento) · [Terminais das companhias](https://www.gru.com.br/pt/passageiro/descubra-gru/mapa-do-aeroporto) · [FAQ oficial](https://www.gru.com.br/pt/Documents/FAQ%20Reserva%20De%20Vaga%20-%20Atualizado%202026.pdf).
+**Estacionamento de Guarulhos reservado e pago.** E-mail da Indigo recebido em 28/09/2026 às 15h34 e passe conferido: edifício-garagem coberto do Terminal 3, de **15/10 às 7h até 19/10 às 21h**, por **R$ 561,75** (R$ 535,00 + R$ 26,75 de serviços). Placa correta e QR Code emitido. Salvar o passe no celular, aumentar o brilho e acessar a primeira cancela à esquerda, exclusiva para reservas. Usar o mesmo QR Code na saída, sem passar no caixa dentro do período contratado. O voucher informa tolerância de 1 hora na entrada e 3 horas na saída; manter os horários planejados e consultar a Indigo sobre excedentes se ultrapassar. A FAQ orienta apresentar o QR Code mesmo se a TAG abrir a cancela, para evitar cobrança pela TAG. Passe, placa e número da reserva permanecem privados. [Estacionamento oficial GRU](https://www.gru.com.br/pt/passageiro/como-chegar-sair/estacionamento) · [Terminais das companhias](https://www.gru.com.br/pt/passageiro/descubra-gru/mapa-do-aeroporto) · [FAQ oficial](https://www.gru.com.br/pt/Documents/FAQ%20Reserva%20De%20Vaga%20-%20Atualizado%202026.pdf).
 
 Para quatro noites, Uber ou Cabify são a primeira opção nos dois trajetos de aeroporto, com transporte solicitado pelo hotel como alternativa. Na chegada, pedir depois da imigração e retirada das malas; na volta, verificar disponibilidade às 10h30 para sair às 11h. Não alugaria carro para este roteiro. Se levarem quatro malas grandes, preferir veículo maior com capacidade confirmada; Comfort não garante esse espaço. Ao cotar um transfer, incluir pedágios, estacionamento, acompanhamento do voo, espera em caso de atraso e bagagens. [Uber em Ezeiza](https://www.uber.com/global/en/r/airports/eze/pickup/) · [Cabify em Ezeiza](https://help.cabify.com/hc/es/articles/360012335140-Encontr%C3%A1-a-tu-usuario-conductor-en-el-Aeropuerto-Internacional-Ezeiza).
 
@@ -147,7 +147,7 @@ As faixas abaixo são envelopes de gasto sugeridos em reais, não preços de mer
 | Margem adicional de 15% | R$ 1.448–2.475 |
 | Total arredondado para planejamento | **R$ 11.100–19.000** |
 
-Voos, compras pessoais, transporte no Brasil, adega premium, guias privados e eventuais experiências adicionais ficam fora dessa estimativa. Separar mais R$ 561,75 para o estacionamento oficial de GRU, cotado em 28/09 e ainda não reservado. A verba de seguro depende especialmente da idade, cobertura e eventual benefício de cartão. O teto do hotel é um limite, não uma meta de gasto.
+Voos, compras pessoais, transporte no Brasil, adega premium, guias privados e eventuais experiências adicionais ficam fora dessa estimativa. O estacionamento oficial de GRU já foi pago: R$ 561,75, além dessa estimativa, conforme recibo de 28/09. A verba de seguro depende especialmente da idade, cobertura e eventual benefício de cartão. O teto do hotel é um limite, não uma meta de gasto.
 
 ## 7. Documentos e preparativos
 
@@ -169,12 +169,12 @@ Outros preparativos:
 
 ## 8. Ordem das próximas decisões
 
-O [checklist publicado](https://lmteixeira17.github.io/viagem-paris-londres-2026/buenos-aires/#checklist) acompanha 38 etapas: decisões, reservas, documentos/voos/seguro, logística/malas, preparativos e retorno. Há doze confirmações: bilhetes/voos e franquia de bagagem conferidos na Air Canada, hotel escolhido e reservado, tango definido e reserva paga, além de datas/voos registrados conforme comprovantes, dois adultos, preferências, teto de hotel, roteiro geral aprovado e pesquisa de hotéis concluída. Hotel e tango possuem confirmação de reserva.
+O [checklist publicado](https://lmteixeira17.github.io/viagem-paris-londres-2026/buenos-aires/#checklist) acompanha 38 etapas: decisões, reservas, documentos/voos/seguro, logística/malas, preparativos e retorno. Há treze confirmações: estacionamento oficial de GRU reservado e pago, bilhetes/voos e franquia de bagagem conferidos na Air Canada, hotel escolhido e reservado, tango definido e reserva paga, além de datas/voos registrados conforme comprovantes, dois adultos, preferências, teto de hotel, roteiro geral aprovado e pesquisa de hotéis concluída. Hotel, tango e estacionamento possuem confirmação de reserva.
 
-Conforme definirmos ou concluirmos cada etapa na conversa, o guia será atualizado com a baixa correspondente. Hotel escolhido é diferente de reserva concluída; pacote de tango escolhido é diferente de compra concluída. Hotel e tango confirmados; restaurantes e Colón continuam sem reserva. As confirmações publicadas aparecem em qualquer aparelho; marcações manuais ficam somente no navegador e não alteram o status compartilhado. Comprovantes e dados pessoais ficam fora da página pública.
+Conforme definirmos ou concluirmos cada etapa na conversa, o guia será atualizado com a baixa correspondente. Hotel escolhido é diferente de reserva concluída; pacote de tango escolhido é diferente de compra concluída. Hotel, tango e estacionamento confirmados; restaurantes e Colón continuam sem reserva. As confirmações publicadas aparecem em qualquer aparelho; marcações manuais ficam somente no navegador e não alteram o status compartilhado. Comprovantes e dados pessoais ficam fora da página pública.
 
-1. **Agora:** consultar a Azul sobre o aviso de prevenção e a marcação de assentos. Air Canada confirma os dois voos e os bilhetes dos dois passageiros. Hotel e tango também confirmados.
-2. **Próximas reservas:** concluir estacionamento de GRU (garagem coberta T3 cotada em R$ 561,75); finalizar Don Julio, proposta de 17/10 às 13h30 para dois, sujeita à disponibilidade; fechar almoço de domingo em San Telmo. Em 28/09, o Meitre permanecia no campo de e-mail vazio e não havia mensagem localizada, inclusive spam/lixeira. Não há mesa confirmada.
+1. **Agora:** consultar a Azul sobre o aviso de prevenção e a marcação de assentos. Air Canada confirma os dois voos e os bilhetes dos dois passageiros. Hotel, tango e estacionamento também confirmados.
+2. **Próximas reservas:** finalizar Don Julio, proposta de 17/10 às 13h30 para dois, sujeita à disponibilidade; fechar almoço de domingo em San Telmo. Em 28/09, o Meitre permanecia no campo de e-mail vazio e não havia mensagem localizada, inclusive spam/lixeira. Não há mesa confirmada.
 3. **Depois de confirmar horários:** comprar visita do Colón de sexta às 11h45, se disponível, e combinar o horário exato da retirada e o retorno do tango; AQ Tailored já consta no voucher.
 4. **Ainda antes da viagem:** emitir seguro, configurar Uber/Cabify e definir a quantidade de malas; contratar veículo maior se necessário e ajustar conectividade.
 5. **Entre 8 e 12/10:** verificar clima, horários das atrações e qualquer alteração dos voos; reconfirmar restaurantes, tango, documentos e procedimento migratório.
