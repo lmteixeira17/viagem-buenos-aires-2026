@@ -2,7 +2,7 @@
 
 Planejamento para duas pessoas, primeira visita, com foco em atrações clássicas, gastronomia e tango. Hotel: teto de R$ 2.000 por noite para o quarto. Sem restrições alimentares ou de mobilidade informadas. Pesquisa realizada em 28/09/2026.
 
-Este é um roteiro proposto. AQ Tailored confirmado por e-mail e conta em 28/09; El Querandí em 16/10 também confirmado e pago (US$ 220), com voucher recebido. Demais ingressos, restaurantes e detalhes de transporte seguem pendentes. Horários de passeios são sugestões; tarifas e vagas para as datas da viagem ainda precisam de confirmação. Consulta autenticada em 28/09 na Azul pelo Mundo e na Air Canada: bilhetes dos dois passageiros identificados e ida/volta com status Confirmed, Business Class Standard. Datas, horários e aeroportos conferidos. O alerta “Status Prevenção: PENDENTE” exibido pela Azul foi esclarecido pela confirmação da Air Canada; não há ação adicional sobre esse aviso.
+Este é um roteiro proposto. AQ Tailored confirmado por e-mail e conta em 28/09; El Querandí em 16/10 também confirmado e pago (US$ 220), com voucher recebido. Don Julio confirmado por e-mail e portal em 30/09 para 17/10 às 13h30. Outros ingressos, restaurantes e detalhes de transporte seguem pendentes. Horários de passeios são sugestões; tarifas e vagas para as datas da viagem ainda precisam de confirmação. Consulta autenticada em 28/09 na Azul pelo Mundo e na Air Canada: bilhetes dos dois passageiros identificados e ida/volta com status Confirmed, Business Class Standard. Datas, horários e aeroportos conferidos. O alerta “Status Prevenção: PENDENTE” exibido pela Azul foi esclarecido pela confirmação da Air Canada; não há ação adicional sobre esse aviso.
 
 ## 1. Datas e voos
 
@@ -63,14 +63,14 @@ O Ateneo ocupa um antigo teatro e vale a visita pela arquitetura, mesmo sem comp
 - 9h–10h15: Cemitério da Recoleta, com foco na arquitetura e no túmulo de Evita, seguido do entorno da Basílica do Pilar. Se o cemitério não interessar, usar esse tempo para um café e as praças.
 - 10h30–11h: parada externa na Floralis Genérica, se o acesso estiver liberado; depois, carro até Palermo.
 - 11h15–12h30: Jardín Japonés.
-- 13h–14h: almoço leve em Palermo.
-- 14h–16h: Palermo Soho, lojas, cafés e ruas próximas à Plaza Armenia/Plaza Serrano. Não é necessário percorrer tudo.
-- 16h30–18h30: descanso no hotel.
-- 20h–20h30: jantar de parrilla. Primeira tentativa: Don Julio. Alternativa: La Cabrera. Se só conseguirem Don Julio no almoço, inverter as refeições e fazer jantar leve.
+- 13h15: chegar ao Don Julio, Guatemala 4699. Reserva confirmada às 13h30 para dois, à la carte, área externa; tolerância de 15 minutos.
+- 15h–16h30: Palermo Soho após o almoço; ajustar a duração conforme a refeição, sem pressa.
+- 17h–19h: descanso no hotel.
+- 20h–20h30: jantar leve próximo ao hotel, com horário flexível. A parrilla especial já está confirmada no almoço.
 
 O cemitério informa visitas turísticas das 9h às 17h. O Jardín Japonés informa abertura diária das 10h às 18h45, com bilheteria até 18h30 e ingresso específico para não residentes. [Cemitério](https://buenosaires.gob.ar/gcaba_historico/gobierno/gestion-comunal/cementerios-de-la-ciudad/cementerio-de-la-recoleta) · [Jardín Japonés](https://jardinjapones.org.ar/).
 
-Alternativa em caso de chuva: substituir o jardim por 1h30–2h no MALBA, a partir do meio-dia, e encurtar Palermo Soho. O museu informa abertura de quinta a segunda das 12h às 20h. Não somar o museu a todas as atividades: a troca preserva o ritmo da viagem. [MALBA](https://malba.org.ar/en/).
+Alternativa em caso de chuva: preservar a reserva do Don Julio às 13h30 e visitar o MALBA depois do almoço, em substituição a Palermo Soho; reduzir os passeios ao ar livre pela manhã. O museu informa abertura de quinta a segunda das 12h às 20h. Não somar o museu a todas as atividades: a troca preserva o ritmo da viagem. [MALBA](https://malba.org.ar/en/).
 
 ### Domingo, 18/10 · La Boca, feira de San Telmo e Puerto Madero
 
@@ -103,13 +103,13 @@ Em 2026, o Dia das Mães argentino cai em 18/10. A celebração ocorre no tercei
 
 | Experiência | Proposta | Prioridade |
 |---|---|---|
-| Parrilla especial | [Don Julio, site vinculado pelo Guia Michelin](https://www.parrilladonjulio.com.ar/) | Consultar agora; pode exigir mudança do horário |
-| Alternativa em Palermo | [La Cabrera](https://www.lacabrera.today/) | Reservar se Don Julio não se encaixar |
+| Parrilla especial | [Don Julio, site vinculado pelo Guia Michelin](https://www.parrilladonjulio.com.ar/) | Confirmado: 17/10 às 13h30, dois, à la carte, área externa |
+| Alternativa em Palermo | [La Cabrera](https://www.lacabrera.today/) | Alternativa histórica; Don Julio confirmado no almoço |
 | Almoço de domingo | [La Brigada](https://labrigada.com.ar/) | Reservar por coincidir com Dia das Mães |
 | Tango | [El Querandí](https://querandi.com.ar/pt/) | Sexta à noite |
 | Café histórico | [Café Tortoni](https://turismo.buenosaires.gob.ar/en/node/41006) | Sexta cedo; flexível se houver fila |
 
-Na consulta direta ao [Don Julio / Meitre](https://donjulio.meitre.com/) em 28/09, para duas pessoas em 17/10, o jantar só oferecia 23h30. No almoço, apareceram 11h30, 12h, 13h30 e 15h. Minha proposta é **13h30**, seguida do passeio em Palermo e jantar leve. A etapa seguinte exige confirmação por e-mail; mesa ainda não reservada e horário sujeito a mudança. La Brigada recebe pedidos pelo WhatsApp oficial +54 9 11 3069-8361; proposta: 18/10 às 13h. Pedido ainda não enviado. O site do Fervor devolveu erro 403; não foi possível confirmar vagas.
+Reserva confirmada por e-mail e portal em 30/09: 17/10 às 13h30 para dois, à la carte, área externa com toldo, mantas e aquecimento parcial. Guatemala 4699; chegar às 13h15, tolerância de 15 minutos. Garantia de ARS 70.000 no total, sem cobrança na reserva, possível cobrança por não comparecimento. Cancelar/alterar com pelo menos 6 horas de antecedência, até 7h30 de 17/10. Gerenciar pelo link privado do e-mail. La Brigada recebe pedidos pelo WhatsApp oficial +54 9 11 3069-8361; proposta: 18/10 às 13h. Pedido ainda não enviado. O site do Fervor devolveu erro 403; não foi possível confirmar vagas.
 
 **El Querandí confirmado para 16/10/2026, com pagamento de US$ 220 aprovado**. Voucher recebido por e-mail em 28/09 confirma Jantar Show Tradicional para duas pessoas. O próprio e-mail vale como voucher e não precisa ser impresso. O pacote anunciado inclui jantar de três etapas, bebidas e traslado compartilhado de ida e volta nas zonas atendidas. A promoção é não reembolsável conforme as condições anunciadas; guardar voucher e condições finais em local privado.
 
@@ -171,12 +171,12 @@ Outros preparativos:
 
 ## 8. Ordem das próximas decisões
 
-O [checklist publicado](https://lmteixeira17.github.io/viagem-paris-londres-2026/buenos-aires/#checklist) acompanha 38 etapas: decisões, reservas, documentos/voos/seguro, logística/malas, preparativos e retorno. Há dezesseis confirmações: estacionamento oficial de GRU reservado e pago, bilhetes/voos e franquia de bagagem conferidos na Air Canada, hotel escolhido e reservado, tango definido e reserva paga, traslado do tango definido para combinar no dia da busca, aviso de prevenção da Azul esclarecido pela confirmação da Air Canada, além de datas/voos registrados conforme comprovantes, dois adultos, preferências, teto de hotel, roteiro geral aprovado, pesquisa de hotéis concluída e bagagem/transporte em Buenos Aires definidos conforme informação do viajante. Hotel, tango e estacionamento possuem confirmação de reserva.
+O [checklist publicado](https://lmteixeira17.github.io/viagem-paris-londres-2026/buenos-aires/#checklist) acompanha 38 etapas: decisões, reservas, documentos/voos/seguro, logística/malas, preparativos e retorno. Há dezessete confirmações: reserva do Don Julio confirmada, estacionamento oficial de GRU reservado e pago, bilhetes/voos e franquia de bagagem conferidos na Air Canada, hotel escolhido e reservado, tango definido e reserva paga, traslado do tango definido para combinar no dia da busca, aviso de prevenção da Azul esclarecido pela confirmação da Air Canada, além de datas/voos registrados conforme comprovantes, dois adultos, preferências, teto de hotel, roteiro geral aprovado, pesquisa de hotéis concluída e bagagem/transporte em Buenos Aires definidos conforme informação do viajante. Hotel, tango, estacionamento e Don Julio possuem confirmação de reserva.
 
-Conforme definirmos ou concluirmos cada etapa na conversa, o guia será atualizado com a baixa correspondente. Hotel escolhido é diferente de reserva concluída; pacote de tango escolhido é diferente de compra concluída. Hotel, tango e estacionamento confirmados; restaurantes e Colón continuam sem reserva. As confirmações publicadas aparecem em qualquer aparelho; marcações manuais ficam somente no navegador e não alteram o status compartilhado. O passe Indigo do estacionamento está disponível sem senha por autorização do usuário; os demais comprovantes e dados pessoais seguem fora da página pública.
+Conforme definirmos ou concluirmos cada etapa na conversa, o guia será atualizado com a baixa correspondente. Hotel escolhido é diferente de reserva concluída; pacote de tango escolhido é diferente de compra concluída. Hotel, tango, estacionamento e Don Julio confirmados; almoço de domingo e Colón continuam sem reserva. As confirmações publicadas aparecem em qualquer aparelho; marcações manuais ficam somente no navegador e não alteram o status compartilhado. O passe Indigo do estacionamento está disponível sem senha por autorização do usuário; os demais comprovantes e dados pessoais seguem fora da página pública.
 
 1. **Agora:** conferir assentos e benefícios do bilhete; o aviso de prevenção foi esclarecido pela confirmação da Air Canada. Air Canada confirma os dois voos e os bilhetes dos dois passageiros. Hotel, tango e estacionamento também confirmados.
-2. **Próximas reservas:** finalizar Don Julio para dois em 17/10 às 13h30, à la carte, área externa com toldo, mantas e aquecimento parcial. Em 30/09, e-mail validado e formulário na etapa final de garantia. Garantia de ARS 70.000 no total, sem cobrança agora, com possível cobrança por não comparecimento; cancelamento/alteração exige ao menos 6 horas de antecedência. Termos e garantia autorizados. Falta preencher o cartão diretamente no fornecedor e concluir; não há mesa confirmada. Fechar almoço de domingo em San Telmo.
+2. **Don Julio confirmado e próxima reserva:** Reserva confirmada por e-mail e portal em 30/09: 17/10 às 13h30 para dois, à la carte, área externa com toldo, mantas e aquecimento parcial. Guatemala 4699; chegar às 13h15, tolerância de 15 minutos. Garantia de ARS 70.000 no total, sem cobrança na reserva, possível cobrança por não comparecimento. Cancelar/alterar com pelo menos 6 horas de antecedência, até 7h30 de 17/10. Gerenciar pelo link privado do e-mail. Fechar almoço de domingo em San Telmo.
 3. **Depois de confirmar horários:** comprar visita do Colón de sexta às 11h45, se disponível, e combinar o horário exato do traslado do tango no dia da busca, conforme definido no checklist; AQ Tailored já consta no voucher.
 4. **Ainda antes da viagem:** emitir seguro, conferir acesso ao Uber e ajustar a conectividade; bagagem e uso de Uber convencional já definidos conforme informado pelo viajante.
 5. **Entre 8 e 12/10:** verificar clima, horários das atrações e qualquer alteração dos voos; reconfirmar restaurantes, tango, documentos e procedimento migratório.
