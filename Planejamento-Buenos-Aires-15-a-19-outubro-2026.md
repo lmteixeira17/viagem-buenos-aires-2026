@@ -29,7 +29,7 @@ Nota consultada: 9,6/10, 632 avaliações. Piscina externa; perto da Avenida San
 
 ## 3. Roteiro diário
 
-Os intervalos incluem refeições e pausas. Usar carro entre regiões e caminhar dentro de cada circuito. As reservas do Teatro Colón e dos restaurantes podem exigir pequenos ajustes.
+Os intervalos incluem refeições e pausas. Usar carro entre regiões e caminhar dentro de cada circuito. A disponibilidade da visita do Teatro Colón e as reservas dos restaurantes podem exigir pequenos ajustes.
 
 ### Quinta, 15/10 · Chegada e primeira noite
 
@@ -45,8 +45,8 @@ Não colocar ingresso com horário fixo nesta tarde. Deixar a entrada no cemité
 - 8h45: saída de carro do hotel.
 - 9h15: Café Tortoni, na Av. de Mayo 825. Se houver fila demorada, trocar por outro café na região e preservar o horário do teatro.
 - 10h–10h45: Plaza de Mayo, fachada da Casa Rosada e Catedral, respeitando eventuais restrições locais. O plano não depende de visita ao interior da Casa Rosada.
-- 10h45–11h15: deslocamento ao Teatro Colón e chegada antecipada.
-- 11h45–12h35: visita guiada em português, se houver vaga nesse horário.
+- 10h45–11h15: deslocamento ao Teatro Colón. Chegar às 11h15 à bilheteria em Tucumán 1171 e comprar dois bilhetes para a visita em português às 11h45.
+- 11h45–12h35: visita guiada em português, com compra na hora conforme decisão do viajante. Sujeito a vagas; se não houver lugar, consultar a próxima saída em espanhol e ajustar o almoço.
 - 12h45–14h: almoço na região do Centro/Teatro Colón.
 - 14h–14h45: Obelisco e trecho da Avenida Corrientes.
 - 15h–16h: El Ateneo Grand Splendid, na Av. Santa Fe 1860; ir de carro se estiverem cansados.
@@ -56,7 +56,7 @@ Não colocar ingresso com horário fixo nesta tarde. Deixar a entrada no cemité
 
 O Colón informa visita com duração de 50 minutos e saídas em português às 11h45 e 16h. O percurso pode mudar por ensaios e apresentações. Há divergência entre páginas oficiais sobre o último horário do dia; o horário sugerido de 11h45 aparece nas duas. Confirmar no calendário da compra. [Visitas do Teatro Colón](https://teatrocolon.org.ar/guided-tours/).
 
-Consulta ao calendário oficial em 30/09: opção em português em 16/10 às 11h45, entrada geral anunciada a ARS 34.000 por pessoa, ARS 68.000 para dois antes de eventuais taxas. O site exige entrar ou criar conta para prosseguir; quantidade e total final ainda não verificados na compra. Nenhum ingresso adquirido. Planejar chegada às 11h30. [Compra oficial em português](https://entradasba.buenosaires.gob.ar/visitas/109).
+Decisão do viajante em 30/09: manter a visita em português de 16/10 às 11h45 e comprar na bilheteria no dia. Chegar às 11h15, em Tucumán 1171. Entrada geral anunciada em 30/09: ARS 34.000 por pessoa, ARS 68.000 para dois; reconferir no dia. Aceita cartão ou pesos argentinos, não moeda estrangeira. Nenhum ingresso adquirido; horário sujeito a vagas. Guardar os ingressos após a compra. [Informações oficiais](https://teatrocolon.org.ar/guided-tours/).
 
 O Ateneo ocupa um antigo teatro e vale a visita pela arquitetura, mesmo sem comprar livros. [Turismo oficial — El Ateneo](https://turismo.buenosaires.gob.ar/es/otros-establecimientos/el-ateneo-grand-splendid).
 
@@ -173,13 +173,13 @@ Outros preparativos:
 
 ## 8. Ordem das próximas decisões
 
-O [checklist publicado](https://lmteixeira17.github.io/viagem-paris-londres-2026/buenos-aires/#checklist) acompanha 38 etapas: decisões, reservas, documentos/voos/seguro, logística/malas, preparativos e retorno. Há dezessete confirmações: reserva do Don Julio confirmada, estacionamento oficial de GRU reservado e pago, bilhetes/voos e franquia de bagagem conferidos na Air Canada, hotel escolhido e reservado, tango definido e reserva paga, traslado do tango definido para combinar no dia da busca, aviso de prevenção da Azul esclarecido pela confirmação da Air Canada, além de datas/voos registrados conforme comprovantes, dois adultos, preferências, teto de hotel, roteiro geral aprovado, pesquisa de hotéis concluída e bagagem/transporte em Buenos Aires definidos conforme informação do viajante. Hotel, tango, estacionamento e Don Julio possuem confirmação de reserva.
+O [checklist publicado](https://lmteixeira17.github.io/viagem-paris-londres-2026/buenos-aires/#checklist) acompanha 38 etapas: decisões, reservas, documentos/voos/seguro, logística/malas, preparativos e retorno. Há dezoito confirmações: compra do Colón definida para a bilheteria no dia (sem ingresso adquirido), reserva do Don Julio confirmada, estacionamento oficial de GRU reservado e pago, bilhetes/voos e franquia de bagagem conferidos na Air Canada, hotel escolhido e reservado, tango definido e reserva paga, traslado do tango definido para combinar no dia da busca, aviso de prevenção da Azul esclarecido pela confirmação da Air Canada, além de datas/voos registrados conforme comprovantes, dois adultos, preferências, teto de hotel, roteiro geral aprovado, pesquisa de hotéis concluída e bagagem/transporte em Buenos Aires definidos conforme informação do viajante. Hotel, tango, estacionamento e Don Julio possuem confirmação de reserva.
 
-Conforme definirmos ou concluirmos cada etapa na conversa, o guia será atualizado com a baixa correspondente. Hotel escolhido é diferente de reserva concluída; pacote de tango escolhido é diferente de compra concluída. Hotel, tango, estacionamento e Don Julio confirmados; almoço de domingo e Colón continuam sem reserva. As confirmações publicadas aparecem em qualquer aparelho; marcações manuais ficam somente no navegador e não alteram o status compartilhado. O passe Indigo do estacionamento está disponível sem senha por autorização do usuário; os demais comprovantes e dados pessoais seguem fora da página pública.
+Conforme definirmos ou concluirmos cada etapa na conversa, o guia será atualizado com a baixa correspondente. Hotel escolhido é diferente de reserva concluída; pacote de tango escolhido é diferente de compra concluída. Hotel, tango, estacionamento e Don Julio confirmados; almoço de domingo continua sem reserva; Colón será comprado na bilheteria em 16/10, com visita programada às 11h45 e entrada sujeita a vagas. As confirmações publicadas aparecem em qualquer aparelho; marcações manuais ficam somente no navegador e não alteram o status compartilhado. O passe Indigo do estacionamento está disponível sem senha por autorização do usuário; os demais comprovantes e dados pessoais seguem fora da página pública.
 
 1. **Agora:** conferir assentos e benefícios do bilhete; o aviso de prevenção foi esclarecido pela confirmação da Air Canada. Air Canada confirma os dois voos e os bilhetes dos dois passageiros. Hotel, tango e estacionamento também confirmados.
 2. **Don Julio confirmado e próxima reserva:** Reserva confirmada por e-mail e portal em 30/09: 17/10 às 13h30 para dois, à la carte, área externa com toldo, mantas e aquecimento parcial. Guatemala 4699; chegar às 13h15, tolerância de 15 minutos. Garantia de ARS 70.000 no total, sem cobrança na reserva, possível cobrança por não comparecimento. Cancelar/alterar com pelo menos 6 horas de antecedência, até 7h30 de 17/10. Gerenciar pelo link privado do e-mail. Fechar almoço de domingo em San Telmo.
-3. **Depois de confirmar horários:** comprar visita do Colón de sexta às 11h45, se disponível, e combinar o horário exato do traslado do tango no dia da busca, conforme definido no checklist; AQ Tailored já consta no voucher.
+3. **Na sexta, 16/10:** chegar às 11h15 à bilheteria do Colón e comprar dois ingressos para a visita em português às 11h45, sujeito a vagas. Combinar o horário exato do traslado do tango no dia da busca, conforme definido no checklist; AQ Tailored já consta no voucher.
 4. **Ainda antes da viagem:** emitir seguro, conferir acesso ao Uber e ajustar a conectividade; bagagem e uso de Uber convencional já definidos conforme informado pelo viajante.
 5. **Entre 8 e 12/10:** verificar clima, horários das atrações e qualquer alteração dos voos; reconfirmar restaurantes, tango, documentos e procedimento migratório.
 6. **14/10:** check-in online a partir de 11h35, documentos offline e internet preparada para pedir o carro em Ezeiza.
