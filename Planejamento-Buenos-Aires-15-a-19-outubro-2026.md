@@ -56,6 +56,8 @@ Não colocar ingresso com horário fixo nesta tarde. Deixar a entrada no cemité
 
 O Colón informa visita com duração de 50 minutos e saídas em português às 11h45 e 16h. O percurso pode mudar por ensaios e apresentações. Há divergência entre páginas oficiais sobre o último horário do dia; o horário sugerido de 11h45 aparece nas duas. Confirmar no calendário da compra. [Visitas do Teatro Colón](https://teatrocolon.org.ar/guided-tours/).
 
+Consulta ao calendário oficial em 30/09: opção em português em 16/10 às 11h45, entrada geral anunciada a ARS 34.000 por pessoa, ARS 68.000 para dois antes de eventuais taxas. O site exige entrar ou criar conta para prosseguir; quantidade e total final ainda não verificados na compra. Nenhum ingresso adquirido. Planejar chegada às 11h30. [Compra oficial em português](https://entradasba.buenosaires.gob.ar/visitas/109).
+
 O Ateneo ocupa um antigo teatro e vale a visita pela arquitetura, mesmo sem comprar livros. [Turismo oficial — El Ateneo](https://turismo.buenosaires.gob.ar/es/otros-establecimientos/el-ateneo-grand-splendid).
 
 ### Sábado, 17/10 · Recoleta, jardins e Palermo
