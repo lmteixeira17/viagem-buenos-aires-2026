@@ -13,7 +13,13 @@ assert.equal(keys.length, 38);
 assert.equal(new Set(keys).size, keys.length, 'Chaves do checklist duplicadas');
 const published = [...html.matchAll(/<input type="checkbox"([^>]+)>/g)].map(([, attributes]) => Object.fromEntries([...attributes.matchAll(/data-([\w-]+)="([^"]*)"/g)].map(([, key, value]) => [key, value])));
 const confirmedCount = published.filter(item => item.confirmed === 'true').length;
-assert.equal(confirmedCount, 18);
+assert.equal(confirmedCount, 19);
+assert.equal(published.find(item => item.check === 'insurance').confirmed, 'true');
+assert.equal(published.find(item => item.check === 'insurance').revision, '3');
+const pdfLinks = [...new Set([...html.matchAll(/href="(comprovantes\/[^"#]+\.pdf)"/g)].map(match => match[1]))];
+assert.equal(pdfLinks.length, 11, 'Disponibilizar todos os comprovantes reunidos');
+for (const path of pdfLinks) assert.equal(readFileSync(new URL('./' + path, import.meta.url)).subarray(0, 5).toString(), '%PDF-', 'Link deve apontar para um PDF válido: ' + path);
+assert.equal(readFileSync(new URL('./comprovantes/todos-comprovantes.zip', import.meta.url)).subarray(0, 2).toString(), 'PK');
 assert.equal(published.find(item => item.check === 'offline').status, 'Pendente', 'Preparação offline continua pendente até ser feita nos aparelhos');
 assert.equal(published.find(item => item.check === 'offline').revision, '2', 'Reabrir a etapa invalida marcações antigas');
 assert(html.includes('id="prepare-offline"') && html.includes('id="offline-status"'), 'Incluir botão e retorno acessível para preparar o celular');
@@ -54,6 +60,7 @@ function runGuide(initialStorage = '{}', unavailableStorage = false, revisions =
   return { elements, panels, links, days, checks, events, location, storage: () => storage };
 }
 const app = runGuide();
+assert(runGuide('{"insurance":false}').checks.find(check => check.dataset.check === 'insurance').checked && app.checks.find(check => check.dataset.check === 'insurance').disabled, 'Seguro emitido permanece confirmado em todos os aparelhos');
 assert.equal(published.find(item => item.check === 'colon').revision, '2');
 assert(runGuide('{"colon":false}').checks.find(check => check.dataset.check === 'colon').checked && app.checks.find(check => check.dataset.check === 'colon').disabled, 'Decisão de comprar na bilheteria permanece concluída em todos os aparelhos');
 assert(html.includes('Compra do Teatro Colón definida: na bilheteria') && html.includes('Nenhum ingresso comprado; horário sujeito a vagas.'), 'Decisão confirmada não significa ingresso comprado');

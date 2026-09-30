@@ -1,5 +1,6 @@
-# Comprovantes e outros documentos de viagem ficam apenas no computador.
+# Somente os PDFs revisados da viagem foram autorizados para publicação em 30/09.
 *.pdf
+!comprovantes/*.pdf
 *.png
 *.jpg
 *.jpeg
