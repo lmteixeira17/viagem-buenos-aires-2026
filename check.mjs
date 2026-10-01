@@ -95,8 +95,8 @@ assert.equal(legacy.checks.find(check => check.dataset.check === 'sunday').check
 assert.equal(legacy.checks.find(check => check.dataset.check === 'dates').checked, true, 'Estado local antigo não apaga confirmação nova');
 assert.equal(legacy.checks.find(check => check.dataset.check === 'dates').disabled, true);
 assert.equal(runGuide('{"offline":true}').checks.find(check => check.dataset.check === 'offline').checked, false, 'Revisão nova reabre o preparo offline');
-assert.equal(runGuide(app.storage(), false, { sunday: '3' }).checks.find(check => check.dataset.check === 'sunday').checked, false, 'Reabrir etapa invalida marcação de versão anterior');
-assert.equal(runGuide('{"sunday":true}', false, { sunday: '3' }).checks.find(check => check.dataset.check === 'sunday').checked, false, 'Marcações legadas não fecham etapas reabertas');
+assert.equal(runGuide(app.storage(), false, { sunday: '4' }).checks.find(check => check.dataset.check === 'sunday').checked, false, 'Reabrir etapa invalida marcação de versão anterior');
+assert.equal(runGuide('{"sunday":true}', false, { sunday: '4' }).checks.find(check => check.dataset.check === 'sunday').checked, false, 'Marcações legadas não fecham etapas reabertas');
 pendingCheck.checked = false;
 pendingCheck.listeners.change();
 assert.equal(app.elements['state-sunday'].textContent, 'Aguardando confirmação');
