@@ -13,7 +13,7 @@ assert.equal(keys.length, 39);
 assert.equal(new Set(keys).size, keys.length, 'Chaves do checklist duplicadas');
 const published = [...html.matchAll(/<input type="checkbox"([^>]+)>/g)].map(([, attributes]) => Object.fromEntries([...attributes.matchAll(/data-([\w-]+)="([^"]*)"/g)].map(([, key, value]) => [key, value])));
 const confirmedCount = published.filter(item => item.confirmed === 'true').length;
-assert.equal(confirmedCount, 21);
+assert.equal(confirmedCount, 22);
 assert.equal(published.find(item => item.check === 'insurance').confirmed, 'true');
 assert.equal(published.find(item => item.check === 'insurance').revision, '3');
 const pdfLinks = [...new Set([...html.matchAll(/href="(comprovantes\/[^"#]+\.pdf)"/g)].map(match => match[1]))];
@@ -25,7 +25,7 @@ assert.equal(published.find(item => item.check === 'offline').revision, '2', 'Re
 assert(html.includes('id="prepare-offline"') && html.includes('id="offline-status"'), 'Incluir botão e retorno acessível para preparar o celular');
 assert(html.includes('no mesmo navegador') && html.includes('aba anônima'), 'Explicar onde a cópia offline fica disponível');
 assert(!/\b\d{13}\b/.test(html.replaceAll('https://wa.me/5491168754000', '')), 'Não publicar localizador de reserva; WhatsApp público do restaurante é permitido');
-for (const key of ['hotel', 'hotel-choice', 'tango', 'tango-choice', 'tango-transfer', 'flight-review', 'flight-prevention', 'baggage-allowance', 'transport', 'brazil-transfer', 'parrilla']) assert.equal(published.find(item => item.check === key).confirmed, 'true');
+for (const key of ['hotel', 'hotel-choice', 'tango', 'tango-choice', 'tango-transfer', 'flight-review', 'flight-prevention', 'baggage-allowance', 'transport', 'brazil-transfer', 'parrilla', 'payments']) assert.equal(published.find(item => item.check === key).confirmed, 'true');
 assert.equal(published.find(item => item.check === 'transport').revision, '2', 'Atualizar a decisão invalida marcações locais antigas');
 assert(html.includes('uma mala grande e duas pequenas') && html.includes('Uber convencional'), 'Registrar bagagem e transporte informados pelo viajante');
 assert(!html.includes('quatro malas grandes'), 'Remover orientação de categoria maior baseada em bagagem antiga');
