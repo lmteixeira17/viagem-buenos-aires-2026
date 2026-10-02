@@ -43,9 +43,9 @@ Uma mala grande e duas pequenas; Uber convencional definido para o volume. Na ch
 
 ### 17/10
 
-- 9h–10h15 Cemitério da Recoleta e Basílica do Pilar Arquitetura, história e túmulo de Evita. Se o cemitério não interessar, aproveitar as praças e um café.
+- 9h–10h15 Cemitério da Recoleta e Basílica do Pilar Compra na hora definida: dois ingressos na entrada, Junín 1760; pagar com cartão de crédito ou débito, sem dinheiro. Visitação das 9h às 17h. Prever 20–30 minutos para eventual fila. Arquitetura, história e túmulo de Evita.
 - 10h30–11h Floralis Genérica Parada externa, se o acesso estiver liberado. Depois, seguir de carro para Palermo.
-- 11h15–12h30 Jardín Japonés Passeio pelos jardins. Consultar ingresso para não residentes; abertura publicada às 10h.
+- 11h15–12h30 Jardín Japonés Compra na hora definida: dois ingressos para não residentes na bilheteria, Av. Casares 3500, sem compra antecipada. Bilheteria das 10h às 18h30; jardim até 18h45. Prever 20–30 minutos para eventual fila e preservar a chegada ao Don Julio às 13h15.
 - 13h15 · chegar / 13h30 · reserva confirmada Almoço no Don Julio Duas pessoas · área externa com toldo. Guatemala 4699. Chegar às 13h15; tolerância de 15 minutos. Abrir confirmação . Ver condições da reserva .
 - 15h–16h30 · após o almoço Palermo Soho Lojas, cafés e ruas próximas às praças Armenia e Serrano. Ajustar a duração conforme o almoço, sem pressa.
 - 17h–19h Descanso no hotel Uma pausa antes de sair para jantar.
@@ -82,4 +82,6 @@ Jantar de chegada: Fervor, El Mirasol de La Recova ou La Cabrera; decidir no dia
 
 [Comprovantes e offline](https://lmteixeira17.github.io/viagem-paris-londres-2026/buenos-aires/#offline) · [Checklist](https://lmteixeira17.github.io/viagem-paris-londres-2026/buenos-aires/#checklist)
 
-O checklist preserva 39 etapas e 23 confirmações. Pendências vêm primeiro; confirmações ficam recolhidas. Marcações manuais ficam no navegador de cada aparelho.
+O checklist preserva 39 etapas e 24 confirmações. Pendências vêm primeiro; confirmações ficam recolhidas. Marcações manuais ficam no navegador de cada aparelho.
+
+Decisão confirmada em 02/10: comprar Recoleta e Jardín Japonés na hora em 17/10. Etapa de definição dos ingressos concluída; nenhum ingresso comprado. MALBA permanece opcional, com ingresso a verificar apenas se entrar no roteiro.

@@ -13,7 +13,7 @@ assert.equal(keys.length, 39);
 assert.equal(new Set(keys).size, keys.length, 'Chaves do checklist duplicadas');
 const published = [...html.matchAll(/<input type="checkbox"([^>]+)>/g)].map(([, attributes]) => Object.fromEntries([...attributes.matchAll(/data-([\w-]+)="([^"]*)"/g)].map(([, key, value]) => [key, value])));
 const confirmedCount = published.filter(item => item.confirmed === 'true').length;
-assert.equal(confirmedCount, 23);
+assert.equal(confirmedCount, 24);
 assert.equal(published.find(item => item.check === 'insurance').confirmed, 'true');
 assert.equal(published.find(item => item.check === 'insurance').revision, '3');
 const pdfLinks = [...new Set([...html.matchAll(/href="(comprovantes\/[^"#]+\.pdf)"/g)].map(match => match[1]))];
@@ -99,7 +99,7 @@ const pendingCheck = app.checks.find(check => check.dataset.check === 'offline')
 pendingCheck.checked = true;
 pendingCheck.listeners.change();
 assert.equal(app.elements.progress.value, confirmedCount + 1);
-assert.equal(app.elements['remaining-text'].textContent, '15 tarefas em aberto');
+assert.equal(app.elements['remaining-text'].textContent, '14 tarefas em aberto');
 assert.equal(runGuide(app.storage()).checks.find(check => check.dataset.check === 'offline').checked, true, 'Restaurar marcação local');
 assert.equal(app.elements['state-offline'].textContent, 'Marcado neste aparelho');
 assert.equal(runGuide().checks.find(check => check.dataset.check === 'offline').checked, false, 'Marcação local não vira reserva publicada');
