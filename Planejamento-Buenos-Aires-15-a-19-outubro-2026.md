@@ -1,202 +1,85 @@
 # Buenos Aires · 15 a 19 de outubro de 2026
 
-Planejamento para duas pessoas, primeira visita, com foco em atrações clássicas, gastronomia e tango. Hotel: teto de R$ 2.000 por noite para o quarto. Sem restrições alimentares ou de mobilidade informadas. Pesquisa realizada em 28/09/2026.
+Guia atual para duas pessoas. Atualizado em 02/10/2026.
 
-Este é um roteiro proposto. AQ Tailored confirmado por e-mail e conta em 28/09; El Querandí em 16/10 também confirmado e pago (US$ 220), com voucher recebido. Don Julio confirmado por e-mail e portal em 30/09 para 17/10 às 13h30. La Brigada confirmado por WhatsApp em 01/10 às 18h30 para 18/10 às 12h30, dois adultos; conferido em 02/10. Outros ingressos e detalhes de transporte seguem pendentes. Horários de passeios são sugestões; tarifas e vagas para as datas da viagem ainda precisam de confirmação. Consulta autenticada em 28/09 na Azul pelo Mundo e na Air Canada: bilhetes dos dois passageiros identificados e ida/volta com status Confirmed, Business Class Standard. Datas, horários e aeroportos conferidos. O alerta “Status Prevenção: PENDENTE” exibido pela Azul foi esclarecido pela confirmação da Air Canada; não há ação adicional sobre esse aviso.
+[Abrir o guia no celular](https://lmteixeira17.github.io/viagem-paris-londres-2026/buenos-aires/)
 
-## 1. Datas e voos
+## Reservas da viagem
 
-| Trecho | Data | Voo informado | Horário local | Classe |
-|---|---|---|---|---|
-| Guarulhos → Ezeiza | Quinta, 15/10 | Air Canada 90 | 11h35 → 14h30 | Business |
-| Ezeiza → Guarulhos | Segunda, 19/10 | Air Canada 91 | 16h35 → 19h15 | Business |
+- **Hotel:** AQ Tailored Suites, Montevideo 937. Suíte Júnior para dois. Check-in 15/10 a partir das 15h; check-out 19/10 até 11h. R$ 2.834,64 pagos ao Hoteis.com; R$ 62,17 de taxas previstas na propriedade. Total do comprovante: R$ 2.896,81. Tarifa não reembolsável. Confirmar cama e café na chegada.
+- **Tango:** El Querandí em 16/10, duas pessoas, US$ 220 pagos. Busca no AQ Tailored a partir das 19h; horário exato e retorno serão combinados no dia da busca. Jantar a partir de 19h30; show 21h30–22h45.
+- **Don Julio:** 17/10 às 13h30, chegar às 13h15. Guatemala 4699, área externa com toldo. Garantia ARS 70.000, sem cobrança na reserva. Cancelar/alterar até 7h30 de 17/10. Gerenciar pelo e-mail.
+- **La Brigada:** 18/10 às 12h30, chegar às 12h20. Estados Unidos 465. Duas pessoas; confirmação por WhatsApp, PDF disponível.
+- **Voos:** AC 90, GRU→EZE em 15/10, 11h35→14h30; AC 91, EZE→GRU em 19/10, 16h35→19h15. Business Class Standard, confirmados. Nenhum assento atribuído; tentar escolher próximos no check-in, conforme disponibilidade.
+- **Estacionamento:** Indigo, garagem coberta T3, 15/10 às 7h até 19/10 às 21h; R$ 561,75 pagos. Primeira cancela à esquerda na entrada; mesmo QR na entrada e saída. Tolerância do voucher: 1h na entrada, 3h na saída. [Abrir passe](https://lmteixeira17.github.io/viagem-paris-londres-2026/buenos-aires/estacionamento.html).
+- **Seguro:** dois bilhetes e dois certificados AIG/Mastercard Black, vigência 30/09/2026 a 30/09/2027. Coberturas e regras nos PDFs.
 
-São quatro noites de hotel, com entrada em 15/10 e saída em 19/10. Há três dias completos de passeios: sexta, sábado e domingo. A quinta permite um passeio curto depois do desembarque; a segunda deve ficar para café da manhã, malas e aeroporto.
+## Transporte, pagamentos e internet
 
-Conferido na Air Canada para os dois, na ida e volta: duas malas despachadas gratuitas de até 32 kg cada, soma das dimensões até 158 cm. Bagagem de mão: 55 × 40 × 23 cm; item pessoal: 43 × 33 × 16 cm. A mala de mão deve ser colocada no compartimento superior sem ajuda; item pessoal sob o assento. Reconferido na Air Canada em 02/10: assentos sem atribuição para os dois na ida e na volta; seleção online desabilitada. Os dois voos permanecem Confirmed, Business Class Standard, nos mesmos horários. O site orienta procurar a emissora para alterações em reservas de terceiros. Você informou em 02/10 que a seleção também não está disponível na Azul. Tentativa planejada: escolher assentos próximos no check-in de cada trecho, conforme disponibilidade; se o site não permitir, pedir atendimento à Air Canada no aeroporto. Nenhum assento foi reservado; conferir também os benefícios do bilhete. O aviso de prevenção já foi esclarecido pela confirmação da Air Canada. Nomes dos dois na reserva confirmados como corretos pelo viajante em 28/09. Conferência dos nomes concluída; levar os documentos físicos aceitos e verificar validade e estado de conservação. Bagagem definida pelo viajante: uma mala grande e duas pequenas; Uber convencional considerado suficiente para esse volume.
+Uma mala grande e duas pequenas; Uber convencional definido para o volume. Na chegada, pedir Uber/Cabify após imigração e malas e seguir o ponto indicado no app. Volta em 19/10: verificar carro e trânsito às 10h30, sair do AQ Tailored às 11h para EZE e tentar chegar até 12h35. Todos os cartões estão habilitados para uso internacional; plano de celular mundial já disponível.
 
-Para planejar com folga, chegar ao estacionamento de GRU por volta de 7h e ao terminal às 7h30 na ida. Na volta, sair do hotel aproximadamente às 11h e buscar chegar a EZE até 12h35. Essa antecedência de quatro horas é uma margem conservadora deste roteiro; observar qualquer instrução específica da companhia. Não confundir Ezeiza (EZE) com Aeroparque (AEP).
+## Roteiro
 
-O check-in online da Air Canada abre 24 horas antes: tentar em 14/10 às 11h35 e em 18/10 às 16h35. Se a emissão por parceiro impedir o check-in online, seguir a orientação da operadora. [Orientações da Air Canada](https://www.aircanada.com/ca/en/aco/home/plan/check-in-information/check-in-and-boarding-times.html).
+### 15/10
 
-## 2. Hospedagem
+- 7h · estacionamento / 7h30 · terminal Chegar a Guarulhos Garagem coberta do Terminal 3 reservada e paga. Apresentar o QR Code na primeira cancela à esquerda. Air Canada listada no T3; reconfirmar antes da viagem. Documentos, despacho e embarque.
+- 11h35 → 14h30 Voo GRU → EZE Air Canada 90, conforme comprovante. Voo confirmado; reconferir antes do embarque.
+- Após imigração e retirada das malas Uber ou Cabify para o hotel Comparar preço e espera quando estiverem prontos. Seguir o ponto de encontro indicado no aplicativo. Vocês levarão uma mala grande e duas pequenas; um Uber convencional foi definido para esse volume.
+- 16h30–17h30 · estimativa Check-in e descanso AQ Tailored Suites, Montevideo 937. Check-in a partir das 15h. Chegada depende de imigração, bagagens e trânsito; não colocar ingresso com hora marcada nesta tarde.
+- Fim da tarde Primeiro passeio em Recoleta Av. Alvear, entorno da Basílica do Pilar e praças, conforme a localização do hotel e a disposição.
+- 20h–20h30 Jantar de carnes · escolher conforme a disposição Três opções: Fervor ou El Mirasol de La Recova, em Recoleta; La Cabrera, em Palermo, de Uber. Fervor é a primeira opção. Escolha no dia; nenhuma mesa reservada. Ver as três opções e como chegar →
 
-**AQ Tailored Suites reservado**, em Montevideo 937. Entrada em 15/10/2026 às 15h e saída em 19/10/2026 às 11h, conforme e-mail e conta conferidos em 28/09.
+### 16/10
 
-Reserva efetiva: uma Suíte Júnior para dois adultos, com tarifa **não reembolsável**. A opção flexível cotada anteriormente não se aplica. Cama King, metragem e café não estão discriminados no resumo final; confirmar essas inclusões com a propriedade. Imposto municipal informado: US$ 12 para o casal nas quatro noites, pago no hotel. A mensagem do AQ solicita documento físico de todos e cartão físico, preferencialmente o utilizado na reserva. Valores pagos, créditos e localizador permanecem privados.
+- 8h45 · saída do hotel Café Tortoni às 9h15 Av. de Mayo 825. Se a fila estiver demorada, trocar por outro café próximo e preservar o horário do teatro.
+- 10h–10h45 Plaza de Mayo Fachada da Casa Rosada e Catedral, respeitando eventuais restrições locais. O roteiro não depende de entrada na Casa Rosada.
+- 10h45–11h15 · deslocamento Chegar às 11h15 e comprar os bilhetes do Teatro Colón Ir de carro se necessário. Comprar dois ingressos na bilheteria, em Tucumán 1171, para a visita em português às 11h45. Levar cartão ou pesos argentinos.
+- 11h45–12h35 · compra na hora Visita guiada ao Teatro Colón 16/10 às 11h45, em português, com compra na bilheteria conforme decisão do viajante. Entrada sujeita a vagas; se não houver lugar, consultar a próxima saída em espanhol e ajustar o almoço. Duração: 50 minutos; o percurso pode mudar por ensaios e apresentações.
+- 12h45–14h Almoço na região do teatro Uma refeição tranquila antes de continuar o passeio.
+- 14h–14h45 Obelisco e Avenida Corrientes Caminhada curta pelo Centro e fotos.
+- 15h–16h El Ateneo Grand Splendid A livraria no antigo teatro, na Av. Santa Fe 1860. Usar carro no deslocamento se estiverem cansados.
+- Até 17h Voltar ao hotel e descansar Reservar tempo para se arrumar antes do tango.
+- Por volta de 19h · confirmar retirada El Querandí · reserva confirmada Duas pessoas · jantar e show pagos. Retirada no AQ Tailored a partir das 19h; combinar o horário exato e o retorno no dia da busca. Jantar a partir de 19h30; show das 21h30 às 22h45. Abrir voucher .
 
-Nota consultada: 9,6/10, 632 avaliações. Piscina externa; perto da Avenida Santa Fe e do El Ateneo. Escolhido pelo conforto e espaço maior. Loi Suites e ARC foram alternativas consultadas, não reservadas.
+### 17/10
 
-## 3. Roteiro diário
+- 9h–10h15 Cemitério da Recoleta e Basílica do Pilar Arquitetura, história e túmulo de Evita. Se o cemitério não interessar, aproveitar as praças e um café.
+- 10h30–11h Floralis Genérica Parada externa, se o acesso estiver liberado. Depois, seguir de carro para Palermo.
+- 11h15–12h30 Jardín Japonés Passeio pelos jardins. Consultar ingresso para não residentes; abertura publicada às 10h.
+- 13h15 · chegar / 13h30 · reserva confirmada Almoço no Don Julio Duas pessoas · área externa com toldo. Guatemala 4699. Chegar às 13h15; tolerância de 15 minutos. Abrir confirmação . Ver condições da reserva .
+- 15h–16h30 · após o almoço Palermo Soho Lojas, cafés e ruas próximas às praças Armenia e Serrano. Ajustar a duração conforme o almoço, sem pressa.
+- 17h–19h Descanso no hotel Uma pausa antes de sair para jantar.
+- 20h–20h30 · flexível Jantar leve próximo ao hotel A parrilla especial já está confirmada no almoço. Escolher uma refeição leve conforme o apetite, sem outra reserva de parrilla.
 
-Os intervalos incluem refeições e pausas. Usar carro entre regiões e caminhar dentro de cada circuito. A disponibilidade da visita do Teatro Colón e as reservas dos restaurantes podem exigir pequenos ajustes.
+### 18/10
 
-### Quinta, 15/10 · Chegada e primeira noite
+- 9h30 · saída do hotel Carro até La Boca Visitar a área turística durante o dia, com ida e saída por carro.
+- 10h–11h15 Caminito Casas coloridas, fotos e passeio. Visita ao estádio não está incluída.
+- 11h15–11h45 Deslocamento a San Telmo Seguir de carro para aproveitar a feira sem alongar a caminhada entre bairros.
+- 11h45–12h15 Plaza Dorrego e feira Passeio inicial pelo bairro; seguir para o restaurante até 12h20. Continuar a feira e o mercado depois do almoço.
+- 12h20 · chegada / 12h30 · reserva confirmada Almoço no La Brigada Duas pessoas · Estados Unidos 465, San Telmo. Chegar às 12h20. Reserva confirmada por WhatsApp. Abrir confirmação em PDF .
+- 14h30–16h Calle Defensa e Mercado de San Telmo Pausa para café. A feira de rua e o mercado coberto são atrações distintas.
+- 16h–16h30 Seguir para Puerto Madero Check-in online da volta abre às 16h35; fazer pelo celular quando estiverem parados.
+- 16h30–18h Puente de la Mujer e diques Caminhada sem pressa, ajustando à disposição e ao clima.
+- Noite Jantar leve e malas Confirmar o transporte de segunda e guardar documentos na bagagem de mão.
 
-- 14h30: pouso previsto em Ezeiza.
-- Aproximadamente 16h30–17h30: chegada estimada ao hotel, dependendo de imigração, malas e trânsito. Reservar 60–90 minutos para o trajeto rodoviário como margem de planejamento; congestionamentos podem ampliar esse tempo.
-- Depois de descansar: caminhada curta pela Av. Alvear, entorno da Basílica do Pilar e praças de Recoleta, conforme a localização do hotel.
-- 20h–20h30: jantar de carnes, escolhendo no dia conforme a disposição. Três opções sem reserva: **Fervor**, Posadas 1519 (Recoleta, cerca de 20–25 minutos a pé ou Uber curto; minha primeira escolha); **El Mirasol de La Recova**, Posadas 1032 (Recoleta, 25–30 minutos a pé ou Uber curto); **La Cabrera**, José A. Cabrera 5099/5127 (Palermo, Uber em cerca de 20–35 minutos). Deslocamentos estimados a partir do AQ Tailored; conferir trânsito e espera antes de sair. [Fervor](https://fervorbrasas.com.ar/) · [El Mirasol](https://www.elmirasol.com.ar/pt-br/restaurante/recova) · [La Cabrera](https://www.lacabrera.today/).
+### 19/10
 
-Não colocar ingresso com horário fixo nesta tarde. Deixar a entrada no cemitério para sábado, dentro do horário turístico.
+- 8h–9h Café da manhã Manhã livre de atrações com horário marcado.
+- 9h–10h30 Malas e check-out Conferir cofre, carregadores, documentos e bagagem. Check-out do AQ Tailored até 11h, conforme reserva confirmada.
+- 10h30 Verificar Uber/Cabify ou confirmar veículo Ter o transporte solicitado pelo hotel como alternativa se houver demora.
+- 11h · saída planejada Ir a Ezeiza — EZE Antecipar se houver trânsito anormal. Não confundir com Aeroparque — AEP.
+- Até 12h35 · chegada desejada Aeroporto, despacho e almoço Quatro horas de margem antes do voo neste planejamento. Seguir também as instruções específicas da companhia.
+- 16h35 → 19h15 Voo EZE → GRU Após imigração e malas, retirar o carro. Estacionamento reservado até 21h. Usar o mesmo QR Code para sair.
 
-### Sexta, 16/10 · Centro histórico, Teatro Colón e tango
+## Preparativos e comprovantes
 
-- 8h45: saída de carro do hotel.
-- 9h15: Café Tortoni, na Av. de Mayo 825. Se houver fila demorada, trocar por outro café na região e preservar o horário do teatro.
-- 10h–10h45: Plaza de Mayo, fachada da Casa Rosada e Catedral, respeitando eventuais restrições locais. O plano não depende de visita ao interior da Casa Rosada.
-- 10h45–11h15: deslocamento ao Teatro Colón. Chegar às 11h15 à bilheteria em Tucumán 1171 e comprar dois bilhetes para a visita em português às 11h45.
-- 11h45–12h35: visita guiada em português, com compra na hora conforme decisão do viajante. Sujeito a vagas; se não houver lugar, consultar a próxima saída em espanhol e ajustar o almoço.
-- 12h45–14h: almoço na região do Centro/Teatro Colón.
-- 14h–14h45: Obelisco e trecho da Avenida Corrientes.
-- 15h–16h: El Ateneo Grand Splendid, na Av. Santa Fe 1860; ir de carro se estiverem cansados.
-- Até 17h: retorno ao hotel e descanso.
-- Por volta de 19h: traslado para o jantar com tango; AQ Tailored confirmado no voucher; recolha na região a partir de 19h, horário exato a combinar.
-- 19h30–22h45: El Querandí; jantar seguido do espetáculo. Reserva e pagamento confirmados para 16/10.
+Próximo preparativo: acesso offline nos dois celulares. Guardar o roteiro e o passe no mesmo navegador, baixar/extrair o ZIP com 12 PDFs, salvar contatos e mapa de Buenos Aires/Ezeiza e testar em modo avião com Wi-Fi desligado.
 
-O Colón informa visita com duração de 50 minutos e saídas em português às 11h45 e 16h. O percurso pode mudar por ensaios e apresentações. Há divergência entre páginas oficiais sobre o último horário do dia; o horário sugerido de 11h45 aparece nas duas. Confirmar no calendário da compra. [Visitas do Teatro Colón](https://teatrocolon.org.ar/guided-tours/).
+Check-in: ida em 14/10 a partir das 11h35; volta em 18/10 a partir das 16h35. Compra do Teatro Colón definida para a bilheteria em 16/10: chegar às 11h15, tentar visita em português às 11h45. Nenhum ingresso adquirido; sujeito a vagas.
 
-Decisão do viajante em 30/09: manter a visita em português de 16/10 às 11h45 e comprar na bilheteria no dia. Chegar às 11h15, em Tucumán 1171. Entrada geral anunciada em 30/09: ARS 34.000 por pessoa, ARS 68.000 para dois; reconferir no dia. Aceita cartão ou pesos argentinos, não moeda estrangeira. Nenhum ingresso adquirido; horário sujeito a vagas. Guardar os ingressos após a compra. [Informações oficiais](https://teatrocolon.org.ar/guided-tours/).
+Jantar de chegada: Fervor, El Mirasol de La Recova ou La Cabrera; decidir no dia conforme disposição. Nenhuma mesa reservada para 15/10.
 
-O Ateneo ocupa um antigo teatro e vale a visita pela arquitetura, mesmo sem comprar livros. [Turismo oficial — El Ateneo](https://turismo.buenosaires.gob.ar/es/otros-establecimientos/el-ateneo-grand-splendid).
+[Comprovantes e offline](https://lmteixeira17.github.io/viagem-paris-londres-2026/buenos-aires/#offline) · [Checklist](https://lmteixeira17.github.io/viagem-paris-londres-2026/buenos-aires/#checklist)
 
-### Sábado, 17/10 · Recoleta, jardins e Palermo
-
-- 9h–10h15: Cemitério da Recoleta, com foco na arquitetura e no túmulo de Evita, seguido do entorno da Basílica do Pilar. Se o cemitério não interessar, usar esse tempo para um café e as praças.
-- 10h30–11h: parada externa na Floralis Genérica, se o acesso estiver liberado; depois, carro até Palermo.
-- 11h15–12h30: Jardín Japonés.
-- 13h15: chegar ao Don Julio, Guatemala 4699. Reserva confirmada às 13h30 para dois, à la carte, área externa; tolerância de 15 minutos.
-- 15h–16h30: Palermo Soho após o almoço; ajustar a duração conforme a refeição, sem pressa.
-- 17h–19h: descanso no hotel.
-- 20h–20h30: jantar leve próximo ao hotel, com horário flexível. A parrilla especial já está confirmada no almoço.
-
-O cemitério informa visitas turísticas das 9h às 17h. O Jardín Japonés informa abertura diária das 10h às 18h45, com bilheteria até 18h30 e ingresso específico para não residentes. [Cemitério](https://buenosaires.gob.ar/gcaba_historico/gobierno/gestion-comunal/cementerios-de-la-ciudad/cementerio-de-la-recoleta) · [Jardín Japonés](https://jardinjapones.org.ar/).
-
-Alternativa em caso de chuva: preservar a reserva do Don Julio às 13h30 e visitar o MALBA depois do almoço, em substituição a Palermo Soho; reduzir os passeios ao ar livre pela manhã. O museu informa abertura de quinta a segunda das 12h às 20h. Não somar o museu a todas as atividades: a troca preserva o ritmo da viagem. [MALBA](https://malba.org.ar/en/).
-
-### Domingo, 18/10 · La Boca, feira de San Telmo e Puerto Madero
-
-- 9h30: saída do hotel de carro.
-- 10h–11h15: Caminito e área turística de La Boca. Combinar ida e saída por carro, durante o dia. Fotos e passeio; visita ao estádio não está incluída.
-- 11h15–11h45: carro até San Telmo.
-- 11h45–12h15: Plaza Dorrego e início da feira; seguir ao restaurante até 12h20 e continuar o passeio depois do almoço.
-- 12h20: chegada planejada ao La Brigada, Estados Unidos 465. **Reserva confirmada para 12h30, dois adultos**, em 18/10. O restaurante respondeu “Confirmada” em 01/10 às 18h30 ao pedido das 12h30; conversa conferida em 02/10. [Confirmação em PDF](https://lmteixeira17.github.io/viagem-paris-londres-2026/buenos-aires/comprovantes/restaurante-la-brigada.pdf).
-- 14h30–16h: Calle Defensa e Mercado de San Telmo, com pausa para café. O mercado coberto e a feira de rua são atrações distintas.
-- 16h–16h30: deslocamento para Puerto Madero.
-- 16h30–18h: Puente de la Mujer e caminhada à beira dos diques; encerrar antes se estiverem cansados.
-- Noite: jantar leve ou retorno a Recoleta, seguido da organização das malas.
-
-A feira é o motivo para preservar San Telmo no domingo. [Circuito oficial de San Telmo](https://turismo.buenosaires.gob.ar/es/circuitos-buenos-aires-sur/san-telmo-gastronomico-religioso) · [La Brigada](https://labrigada.com.ar/).
-
-Em 2026, o Dia das Mães argentino cai em 18/10. A celebração ocorre no terceiro domingo de outubro; por isso, reservar o almoço e esperar maior procura é uma precaução de planejamento, sem presumir lotação já verificada. [Referência da data de 2026](https://spabelgrano.com/blog/cuando-es-el-dia-de-la-madre-2026-argentina/).
-
-Às 16h35 abre a janela de check-in online do voo de volta. Fazer pelo celular quando conveniente, sem interromper um deslocamento a pé.
-
-### Segunda, 19/10 · Retorno
-
-- 8h–9h: café da manhã com calma.
-- 9h–10h30: fechar malas e fazer check-out conforme o horário contratado.
-- 11h: saída prevista para Ezeiza. Antecipar se o hotel ou motorista identificar trânsito anormal.
-- Até 12h35: chegada desejada ao aeroporto, com margem para procedimentos e almoço.
-- 16h35: partida prevista do voo Air Canada 91.
-- 19h15: chegada prevista a GRU. Após imigração e malas, retirar o carro. Estacionamento reservado até 21h; usar o mesmo QR Code para sair.
-
-## 4. Gastronomia e tango: escolhas práticas
-
-| Experiência | Proposta | Prioridade |
-|---|---|---|
-| Parrilla especial | [Don Julio, site vinculado pelo Guia Michelin](https://www.parrilladonjulio.com.ar/) | Confirmado: 17/10 às 13h30, dois, à la carte, área externa |
-| Alternativa em Palermo | [La Cabrera](https://www.lacabrera.today/) | Alternativa histórica; Don Julio confirmado no almoço |
-| Almoço de domingo | [La Brigada](https://labrigada.com.ar/) | Confirmado para dois em 18/10 às 12h30 por WhatsApp; conferido em 02/10 |
-| Tango | [El Querandí](https://querandi.com.ar/pt/) | Sexta à noite |
-| Café histórico | [Café Tortoni](https://turismo.buenosaires.gob.ar/en/node/41006) | Sexta cedo; flexível se houver fila |
-
-Reserva confirmada por e-mail e portal em 30/09: 17/10 às 13h30 para dois, à la carte, área externa com toldo, mantas e aquecimento parcial. Guatemala 4699; chegar às 13h15, tolerância de 15 minutos. Garantia de ARS 70.000 no total, sem cobrança na reserva, possível cobrança por não comparecimento. Cancelar/alterar com pelo menos 6 horas de antecedência, até 7h30 de 17/10. Gerenciar pelo link privado do e-mail. La Brigada recebe pedidos pelo WhatsApp oficial +54 9 11 3069-8361; proposta: 18/10 às 12h30. Resposta recebida em 01/10: reservas de almoço apenas às 12h ou 12h30; depois, atendimento por ordem de chegada. Pedido das 12h30 confirmado em 01/10 às 18h30; conversa conferida em 02/10. Planejar chegada às 12h20. Confirmação em PDF no guia. Para a chegada, Fervor, El Mirasol de La Recova e La Cabrera foram incluídos como opções de carnes para escolher no dia; nenhuma mesa reservada para essa noite.
-
-**El Querandí confirmado para 16/10/2026, com pagamento de US$ 220 aprovado**. Voucher recebido por e-mail em 28/09 confirma Jantar Show Tradicional para duas pessoas. O próprio e-mail vale como voucher e não precisa ser impresso. O pacote anunciado inclui jantar de três etapas, bebidas e traslado compartilhado de ida e volta nas zonas atendidas. A promoção é não reembolsável conforme as condições anunciadas; guardar voucher e condições finais em local privado.
-
-Jantar a partir das 19h30; show das 21h30 às 22h45. AQ TAILORED SUITES RECOLETA está registrado no voucher como hotel de retirada, com recolha na região a partir de 19h. Falta combinar horário exato da busca e instruções do retorno. [Programa e contato oficial](https://querandi.com.ar/pt/).
-
-Para provar ao longo da viagem: empanadas, provoleta, ojo de bife ou bife de chorizo, milanesa, medialunas, alfajores, sorvete e um vinho argentino escolhido conforme o gosto de vocês. Intercalar refeições mais leves; não há necessidade de fazer parrilla todos os dias. Conferir o tamanho dos cortes antes de pedir duas porções.
-
-## 5. Deslocamentos e dinheiro
-
-**Passe Indigo sem senha:** o link na seção de transporte abre no celular o QR Code e os dados necessários para localizar ou alterar a reserva, sem pedir senha. A página pode ser vista por qualquer pessoa com o link; o e-mail e a referência também estão no passe.
-
-**Estacionamento de Guarulhos reservado e pago.** E-mail da Indigo recebido em 28/09/2026 às 15h34 e passe conferido: edifício-garagem coberto do Terminal 3, de **15/10 às 7h até 19/10 às 21h**, por **R$ 561,75** (R$ 535,00 + R$ 26,75 de serviços). Placa correta e QR Code emitido. **Prepare o passe no celular:** abra no celular o e-mail de `sac@indigoneo.com.br`, assunto “Confirmação de Reserva: Aeroporto de Guarulhos”; toque em “GET MY PASS”; faça uma captura nítida com o QR Code inteiro e mantenha-a disponível offline. Guarde também o e-mail. Na entrada, vá à primeira cancela à esquerda, exclusiva para reservas; aumente o brilho da tela, apresente o QR Code e escolha uma vaga disponível. Na saída, use o mesmo QR Code no leitor da cancela; dentro do período contratado, não precisa passar no caixa. A FAQ do GRU orienta apresentar também o QR Code se a TAG abrir a cancela, para evitar cobrança pela TAG. O voucher informa tolerância de 1 hora na entrada e 3 horas na saída; manter os horários reservados e consultar no app ou em Minhas Transações as instruções para pagar excedentes. O QR Code, a placa e os dados para localizar a reserva aparecem sem senha na página do passe; qualquer pessoa com o link pode vê-los. [Localizar o e-mail no Gmail](https://mail.google.com/mail/u/0/#search/from%3Asac%40indigoneo.com.br) · [Estacionamento oficial GRU](https://www.gru.com.br/pt/passageiro/como-chegar-sair/estacionamento) · [Terminais das companhias](https://www.gru.com.br/pt/passageiro/descubra-gru/mapa-do-aeroporto) · [FAQ oficial](https://www.gru.com.br/pt/Documents/FAQ%20Reserva%20De%20Vaga%20-%20Atualizado%202026.pdf).
-
-Para quatro noites, Uber ou Cabify são a primeira opção nos dois trajetos de aeroporto, com transporte solicitado pelo hotel como alternativa. Na chegada, pedir depois da imigração e retirada das malas; na volta, verificar disponibilidade às 10h30 para sair às 11h. Não alugaria carro para este roteiro. O viajante informou que levarão uma mala grande e duas pequenas, volume considerado compatível com Uber convencional. Ao cotar um transfer, incluir pedágios, estacionamento, acompanhamento do voo, espera em caso de atraso e bagagens. [Uber em Ezeiza](https://www.uber.com/global/en/r/airports/eze/pickup/) · [Cabify em Ezeiza](https://help.cabify.com/hc/es/articles/360012335140-Encontr%C3%A1-a-tu-usuario-conductor-en-el-Aeropuerto-Internacional-Ezeiza).
-
-Como margens de planejamento, separar 20–40 minutos para deslocamentos de carro entre regiões centrais e 60–90 minutos para Ezeiza, sujeitos ao trânsito. Conferir o tempo real no dia; as estimativas não garantem horário de chegada.
-
-O metrô é uma alternativa pontual: existem catracas identificadas para pagamento por aproximação com Visa/Mastercard, inclusive emitidos fora da Argentina. Não é necessário comprar SUBE apenas para uma viagem ocasional nessas catracas. [Informação oficial](https://buenosaires.gob.ar/gcaba_historico/noticias/jorge-macri-anuncio-que-desde-el-lunes-la-ciudad-habilita-el-pago-del).
-
-Levar dois cartões de instituições diferentes e uma pequena reserva em pesos para despesas menores. Comparar no aplicativo do banco o custo final da conversão, incluindo tarifas e tributos; não presumir que qualquer cartão ou carteira receberá a mesma taxa. Em despesas cotadas em pesos, preferir cobrança em ARS, conferindo qualquer conversão oferecida pela máquina. Serviços cotados originalmente em dólares, como alguns pacotes de tango, precisam de comparação própria.
-
-Fazer câmbio em instituição autorizada e guardar os comprovantes. Levar dinheiro suficiente para pequenas despesas, sem converter antecipadamente todo o orçamento. Para gorjetas, separar uma verba voluntária e verificar o que já está incluído na conta.
-
-## 6. Orçamento de planejamento para o casal
-
-As faixas abaixo são envelopes de gasto sugeridos em reais, não preços de mercado cotados para as datas. Não foi aplicada cotação de câmbio em tempo real. O tango foi confirmado e pago por US$ 220; a faixa abaixo é a verba original, sem conversão efetiva do cartão informada.
-
-| Item | Verba para os dois |
-|---|---:|
-| Hotel, quatro noites — hipótese de R$ 1.200–2.000/noite | R$ 4.800–8.000 |
-| Alimentação, cafés e bebidas, excluindo jantar do tango | R$ 2.200–3.600 |
-| Transfers de aeroporto e deslocamentos urbanos | R$ 800–1.400 |
-| Jantar e show de tango | R$ 1.200–2.200 |
-| Ingressos e pequenas atividades, excluindo tango | R$ 400–800 |
-| Seguro e conectividade | R$ 250–500 |
-| Subtotal | R$ 9.650–16.500 |
-| Margem adicional de 15% | R$ 1.448–2.475 |
-| Total arredondado para planejamento | **R$ 11.100–19.000** |
-
-Voos, compras pessoais, transporte no Brasil, adega premium, guias privados e eventuais experiências adicionais ficam fora dessa estimativa. O estacionamento oficial de GRU já foi pago: R$ 561,75, além dessa estimativa, conforme recibo de 28/09. A verba de seguro depende especialmente da idade, cobertura e eventual benefício de cartão. O teto do hotel é um limite, não uma meta de gasto.
-
-## 7. Documentos e preparativos
-
-Assumindo que ambos sejam brasileiros: a orientação oficial argentina permite turismo sem visto por até 90 dias para cidadãos brasileiros. Levar documento de viagem aceito, físico e em boas condições. O passaporte válido simplifica a conferência; a relação oficial do Mercosul também inclui a identidade brasileira. CNH não deve ser usada como documento de entrada. Conferir antecipadamente a aceitação do documento específico com a companhia se não forem usar passaporte. [Turistas](https://www.argentina.gob.ar/tema/extranjeros) · [Documentos do Mercosul](https://www.argentina.gob.ar/migraciones/documentos-de-viaje-del-mercosur).
-
-A alteração migratória do DNU 366/2025 prevê declaração jurada de finalidade da entrada e de que o viajante possui seguro de saúde. Providenciar seguro válido para toda a viagem e apólice disponível offline, além de confirmar o procedimento operacional vigente com a Air Canada/Migraciones próximo ao embarque. Não foi localizado nesta pesquisa um formulário operacional atual cuja aplicação a estes passageiros pudesse ser confirmada. Não usar formulários antigos de Covid encontrados em buscas. [Texto oficial, artigo 9](https://www.argentina.gob.ar/normativa/nacional/decreto-366-2025-413297/texto).
-
-Em 30/09, foram emitidos e conferidos os bilhetes AIG / Mastercard Black e certificados de elegibilidade dos dois viajantes. Nomes e vigência de **30/09/2026 a 30/09/2027** conferidos nos PDFs, incluindo 15 a 19/10/2026. E-mails recebidos e conferidos. A etapa de emissão está **concluída**. Baixar os PDFs e comprovantes das taxas nos dois celulares e salvar os contatos da assistência permanece na preparação offline. [Comprovantes publicados](https://lmteixeira17.github.io/viagem-paris-londres-2026/buenos-aires/#offline).
-
-Outros preparativos:
-
-- Internet concluída: o viajante confirmou em 01/10 que os celulares já possuem plano mundial. Usar o plano existente, sem contratação de novo eSIM neste planejamento.
-- Cartões concluídos: o viajante confirmou em 01/10 que todos estão OK e habilitados para uso internacional. Levar os cartões físicos na viagem.
-- Baixar mapa offline e salvar os endereços do hotel, do tango e das reservas.
-- Levar roupas em camadas, casaco leve, proteção contra chuva e calçado já usado para caminhadas. Outubro é primavera; consultar a previsão na semana da viagem, pois não há previsão diária confiável apresentada neste plano.
-- Levar adaptador universal compatível com tomadas argentinas e conferir se os aparelhos são bivolt; a rede local é de 220 V. [Informações gerais da cidade](https://turismo.buenosaires.gob.ar/sites/turismo/files/guia_turismo_de_reuniones_0915_es_1.pdf).
-- Guardar remédios de uso habitual na bagagem de mão, na embalagem original, com receitas quando aplicável.
-- Conferir regras da companhia para líquidos, baterias e transporte de vinhos antes de comprar.
-- Em locais cheios, usar bolsa fechada e cuidar do telefone; contratar transporte por canais identificados. Emergências gerais: 911; atendimento médico de emergência: 107. Salvar o contato atualizado do [Consulado do Brasil](https://www.gov.br/mre/pt-br/consulado-buenos-aires).
-
-## 8. Ordem das próximas decisões
-
-O [checklist publicado](https://lmteixeira17.github.io/viagem-paris-londres-2026/buenos-aires/#checklist) acompanha 39 etapas: decisões, reservas, documentos/voos/seguro, logística/malas, preparativos e retorno. Há vinte e três confirmações, incluindo reserva do La Brigada para domingo às 12h30, cartões conferidos e habilitados para uso internacional, internet com plano mundial e definição de três opções flexíveis para o jantar de chegada: seguro dos dois emitido e documentos conferidos, compra do Colón definida para a bilheteria no dia (sem ingresso adquirido), reserva do Don Julio confirmada, estacionamento oficial de GRU reservado e pago, bilhetes/voos e franquia de bagagem conferidos na Air Canada, hotel escolhido e reservado, tango definido e reserva paga, traslado do tango definido para combinar no dia da busca, aviso de prevenção da Azul esclarecido pela confirmação da Air Canada, além de datas/voos registrados conforme comprovantes, dois adultos, preferências, teto de hotel, roteiro geral aprovado, pesquisa de hotéis concluída e bagagem/transporte em Buenos Aires definidos conforme informação do viajante. Hotel, tango, estacionamento, Don Julio e La Brigada possuem confirmação de reserva.
-
-Conforme definirmos ou concluirmos cada etapa na conversa, o guia será atualizado com a baixa correspondente. Hotel escolhido é diferente de reserva concluída; pacote de tango escolhido é diferente de compra concluída. Hotel, tango, estacionamento, Don Julio e La Brigada confirmados; Colón será comprado na bilheteria em 16/10, com visita programada às 11h45 e entrada sujeita a vagas. As confirmações publicadas aparecem em qualquer aparelho; marcações manuais ficam somente no navegador e não alteram o status compartilhado. O passe Indigo do estacionamento está disponível sem senha por autorização do usuário; os 12 PDFs selecionados das confirmações também foram autorizados para publicação sem senha em 30/09, com pacote ZIP na aba Comprovantes e offline. Passaportes digitalizados e códigos de login não integram essa seleção.
-
-1. **Agora:** preparar comprovantes, contatos e mapas offline nos dois celulares. **No check-in:** tentar escolher assentos próximos e conferir os benefícios do bilhete; o aviso de prevenção foi esclarecido pela confirmação da Air Canada. Air Canada confirma os dois voos e os bilhetes dos dois passageiros. Hotel, tango e estacionamento também confirmados.
-2. **Almoços confirmados:** Reserva confirmada por e-mail e portal em 30/09: 17/10 às 13h30 para dois, à la carte, área externa com toldo, mantas e aquecimento parcial. Guatemala 4699; chegar às 13h15, tolerância de 15 minutos. Garantia de ARS 70.000 no total, sem cobrança na reserva, possível cobrança por não comparecimento. Cancelar/alterar com pelo menos 6 horas de antecedência, até 7h30 de 17/10. Gerenciar pelo link privado do e-mail. La Brigada confirmado para 18/10 às 12h30, dois adultos; chegar às 12h20. Confirmação recebida em 01/10 às 18h30 e conferida em 02/10.
-3. **Na sexta, 16/10:** chegar às 11h15 à bilheteria do Colón e comprar dois ingressos para a visita em português às 11h45, sujeito a vagas. Combinar o horário exato do traslado do tango no dia da busca, conforme definido no checklist; AQ Tailored já consta no voucher.
-4. **Ainda antes da viagem:** baixar os PDFs do seguro já emitido nos dois celulares, conferir acesso ao Uber; cartões habilitados e internet mundial já disponível; bagagem e uso de Uber convencional já definidos conforme informado pelo viajante.
-5. **Entre 8 e 12/10:** verificar clima, horários das atrações e qualquer alteração dos voos; reconfirmar restaurantes, tango, documentos e procedimento migratório.
-6. **14/10:** check-in online a partir de 11h35, documentos offline e internet preparada para pedir o carro em Ezeiza.
-7. **18/10:** check-in da volta a partir de 16h35 e definição do transporte de segunda, com saída planejada às 11h.
-
-Não incluí Tigre nem Colonia del Sacramento no roteiro principal: com três dias completos e sendo a primeira visita, dedicaria o tempo à cidade. Se vocês preferirem muito um bate-volta, ele deve substituir um dia, e não ser acrescentado à programação atual.
-
-## 9. Atalhos para consultar no celular
-
-- [Mapa de Recoleta](https://www.google.com/maps/search/?api=1&query=Recoleta+Buenos+Aires)
-- [Teatro Colón](https://www.google.com/maps/search/?api=1&query=Teatro+Colon+Buenos+Aires)
-- [El Ateneo Grand Splendid](https://www.google.com/maps/search/?api=1&query=El+Ateneo+Grand+Splendid+Buenos+Aires)
-- [Jardín Japonés](https://www.google.com/maps/search/?api=1&query=Jardin+Japones+Buenos+Aires)
-- [Caminito](https://www.google.com/maps/search/?api=1&query=Caminito+La+Boca+Buenos+Aires)
-- [Plaza Dorrego](https://www.google.com/maps/search/?api=1&query=Plaza+Dorrego+Buenos+Aires)
-- [Puente de la Mujer](https://www.google.com/maps/search/?api=1&query=Puente+de+la+Mujer+Buenos+Aires)
-- [Aeroporto de Ezeiza](https://www.google.com/maps/search/?api=1&query=Aeropuerto+Internacional+Ezeiza)
-
-Os mapas são atalhos de busca por local, não rotas com tempo de trânsito verificado.
+O checklist preserva 39 etapas e 23 confirmações. Pendências vêm primeiro; confirmações ficam recolhidas. Marcações manuais ficam no navegador de cada aparelho.

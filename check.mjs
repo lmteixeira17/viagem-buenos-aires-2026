@@ -24,7 +24,7 @@ assert.equal(published.find(item => item.check === 'offline').status, 'Pendente'
 assert.equal(published.find(item => item.check === 'offline').revision, '2', 'Reabrir a etapa invalida marcações antigas');
 assert(html.includes('id="prepare-offline"') && html.includes('id="offline-status"'), 'Incluir botão e retorno acessível para preparar o celular');
 assert(html.includes('no mesmo navegador') && html.includes('aba anônima'), 'Explicar onde a cópia offline fica disponível');
-assert(!/\b\d{13}\b/.test(html.replaceAll('https://wa.me/5491168754000', '')), 'Não publicar localizador de reserva; WhatsApp público do restaurante é permitido');
+assert(!/\b\d{13}\b/.test(html.replaceAll('https://wa.me/5491168754000', '').replaceAll('https://wa.me/5491130698361', '')), 'Não publicar localizador de reserva; WhatsApps oficiais dos restaurantes são permitidos');
 for (const key of ['hotel', 'hotel-choice', 'tango', 'tango-choice', 'tango-transfer', 'flight-review', 'flight-prevention', 'baggage-allowance', 'transport', 'brazil-transfer', 'parrilla', 'payments', 'sunday']) assert.equal(published.find(item => item.check === key).confirmed, 'true');
 assert.equal(published.find(item => item.check === 'transport').revision, '2', 'Atualizar a decisão invalida marcações locais antigas');
 assert(html.includes('uma mala grande e duas pequenas') && html.includes('Uber convencional'), 'Registrar bagagem e transporte informados pelo viajante');
@@ -34,8 +34,8 @@ for (const key of ['seats']) assert.notEqual(published.find(item => item.check =
 for (const key of ['documents', 'hotel', 'parrilla', 'sunday', 'colon', 'tango', 'insurance', 'transport', 'internet', 'reconfirm', 'outbound', 'inbound']) assert(keys.includes(key), 'Preservar chaves do checklist anterior');
 assert(!/9875622342|JANAINA MARTINS|LUIS TEIXEIRA|codex-clipboard|MYTTTV|Navigo/i.test(html), 'Dados privados ou conteúdo da viagem anterior');
 assert(html.includes('2026, 9, 15') && html.includes('2026, 9, 19'));
-assert.equal([4800, 2200, 800, 1200, 400, 250].reduce((a, b) => a + b), 9650);
-assert.equal([8000, 3600, 1400, 2200, 800, 500].reduce((a, b) => a + b), 16500);
+assert(!/Loi Suites|ARC Recoleta|Palladio|MIO sem|Alternativa consultada|hipótese de R\$/i.test(html), 'Retirar hotéis descartados e orçamento hipotético');
+assert(html.includes('R$ 2.834,64') && html.includes('R$ 2.896,81'), 'Usar os valores efetivos do comprovante do hotel');
 const script = new Script(html.match(/<script>([\s\S]*?)<\/script>/)[1]);
 function runGuide(initialStorage = '{}', unavailableStorage = false, revisions = {}) {
   const element = props => ({ hidden: false, open: false, checked: false, listeners: {},
@@ -44,8 +44,12 @@ function runGuide(initialStorage = '{}', unavailableStorage = false, revisions =
     scrollIntoView() {}, classList: { remove() {} }, ...props });
   const elements = Object.fromEntries(ids.map(id => [id, element({ id })]));
   const panels = [...html.matchAll(/class="panel" id="([^"]+)"/g)].map(([, id]) => elements[id]);
-  const links = panels.map(panel => element({ hash: '#' + panel.id }));
-  const days = [...html.matchAll(/<details class="day"[^>]*>([\s\S]*?)<\/details>/g)].map(([, text]) => element({ textContent: text.replace(/<[^>]*>/g, ' ') }));
+  const links = [...html.match(/<nav class="nav-links"[^>]*>([\s\S]*?)<\/nav>/)[1].matchAll(/href="([^"]+)"/g)].map(([, hash]) => element({ hash }));
+  const anchorLinks = [...html.matchAll(/<a[^>]*href="(#[^"]+)"[^>]*>/g)].map(([, hash]) => links.find(link => link.hash === hash) || element({ hash }));
+  const days = [...html.matchAll(/<details class="day"([^>]*)>([\s\S]*?)<\/details>/g)].map(([, attributes, text]) => {
+    const id = attributes.match(/id="([^"]+)"/)[1];
+    return Object.assign(elements[id], { textContent: text.replace(/<[^>]*>/g, ' ') });
+  });
   const checks = published.map(item => element({ dataset: { ...item, revision: revisions[item.check] || item.revision } }));
   const events = {};
   let storage = initialStorage;
@@ -54,10 +58,10 @@ function runGuide(initialStorage = '{}', unavailableStorage = false, revisions =
     history: { pushState(_state, _title, hash) { location.hash = hash; } },
     window: { addEventListener(name, fn) { events[name] = fn; }, print() {} },
     document: { title: 'Buenos Aires', getElementById(id) { return elements[id]; },
-      querySelectorAll(selector) { return ({ '.panel': panels, '.nav-links a': links, 'a[href^="#"]': links, '.day': days, '[data-check]': checks })[selector]; } },
+      querySelectorAll(selector) { return ({ '.panel': panels, '.nav-links a': links, 'a[href^="#"]': anchorLinks, '.day': days, 'details': days, '[data-check]': checks })[selector]; } },
     localStorage: { getItem() { if (unavailableStorage) throw Error('blocked'); return storage; }, setItem(_key, value) { if (unavailableStorage) throw Error('blocked'); storage = value; } }
   });
-  return { elements, panels, links, days, checks, events, location, storage: () => storage };
+  return { elements, panels, links, anchorLinks, days, checks, events, location, storage: () => storage };
 }
 const app = runGuide();
 assert(runGuide('{"insurance":false}').checks.find(check => check.dataset.check === 'insurance').checked && app.checks.find(check => check.dataset.check === 'insurance').disabled, 'Seguro emitido permanece confirmado em todos os aparelhos');
@@ -68,10 +72,17 @@ assert(runGuide('{"parrilla":false}').checks.find(check => check.dataset.check =
 assert(runGuide('{"sunday":false}').checks.find(check => check.dataset.check === 'sunday').checked && app.checks.find(check => check.dataset.check === 'sunday').disabled, 'La Brigada confirmado prevalece sobre marcações locais antigas');
 assert.equal(app.checks.find(check => check.dataset.check === 'transport').disabled, true, 'Transporte confirmado aparece como concluído no guia');
 assert.equal(app.panels.filter(panel => !panel.hidden).length, 1);
-app.links[5].listeners.click({ preventDefault() {} });
+assert.equal(app.links.length, 5, 'Cinco atalhos principais para o celular');
+app.links.find(link => link.hash === '#checklist').listeners.click({ preventDefault() {} });
 assert.equal(app.location.hash, '#checklist');
 assert.equal(app.elements.checklist.hidden, false);
 assert.equal(app.elements.roteiro.hidden, true);
+app.anchorLinks.find(link => link.hash === '#dia-18').listeners.click({ preventDefault() {} });
+assert.equal(app.elements.roteiro.hidden, false, 'Atalho do dia deve exibir o roteiro');
+assert.equal(app.elements['dia-18'].open, true, 'Atalho deve abrir o dia escolhido');
+app.anchorLinks.find(link => link.hash === '#jantar-chegada').listeners.click({ preventDefault() {} });
+assert.equal(app.elements.sabores.hidden, false, 'Link interno deve mostrar a seção de refeições');
+assert.equal(app.links.find(link => link.hash === '#hoteis')['aria-current'], 'true');
 app.elements.search.listeners.input({ target: { value: 'colon' } });
 assert.equal(app.days.filter(day => !day.hidden).length, 1, 'Busca sem acento deve encontrar Colón');
 assert(app.days.find(day => !day.hidden).open);
@@ -88,6 +99,7 @@ const pendingCheck = app.checks.find(check => check.dataset.check === 'offline')
 pendingCheck.checked = true;
 pendingCheck.listeners.change();
 assert.equal(app.elements.progress.value, confirmedCount + 1);
+assert.equal(app.elements['remaining-text'].textContent, '15 tarefas em aberto');
 assert.equal(runGuide(app.storage()).checks.find(check => check.dataset.check === 'offline').checked, true, 'Restaurar marcação local');
 assert.equal(app.elements['state-offline'].textContent, 'Marcado neste aparelho');
 assert.equal(runGuide().checks.find(check => check.dataset.check === 'offline').checked, false, 'Marcação local não vira reserva publicada');
