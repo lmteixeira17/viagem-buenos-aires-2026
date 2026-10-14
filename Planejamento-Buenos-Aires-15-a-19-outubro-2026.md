@@ -1,6 +1,6 @@
 # Buenos Aires · 15 a 19 de outubro de 2026
 
-Guia atual para duas pessoas. Atualizado em 02/10/2026.
+Guia atual para duas pessoas. Atualizado em 14/10/2026.
 
 [Abrir o guia no celular](https://lmteixeira17.github.io/viagem-paris-londres-2026/buenos-aires/)
 
@@ -10,9 +10,11 @@ Guia atual para duas pessoas. Atualizado em 02/10/2026.
 - **Tango:** El Querandí em 16/10, duas pessoas, US$ 220 pagos. Busca no AQ Tailored a partir das 19h; horário exato e retorno serão combinados no dia da busca. Jantar a partir de 19h30; show 21h30–22h45.
 - **Don Julio:** 17/10 às 13h30, chegar às 13h15. Guatemala 4699, área externa com toldo. Garantia ARS 70.000, sem cobrança na reserva. Cancelar/alterar até 7h30 de 17/10. Gerenciar pelo e-mail.
 - **La Brigada:** 18/10 às 12h30, chegar às 12h20. Estados Unidos 465. Duas pessoas; confirmação por WhatsApp, PDF disponível.
-- **Voos:** AC 90, GRU→EZE em 15/10, 11h35→14h30; AC 91, EZE→GRU em 19/10, 16h35→19h15. Business Class Standard, confirmados. Nenhum assento atribuído; tentar escolher próximos no check-in, conforme disponibilidade.
+- **Voos:** AC 90, GRU→EZE em 15/10, 11h35→14h30; AC 91, EZE→GRU em 19/10, 16h35→19h15. Business Class Standard, confirmados. Check-in de ida concluído em 14/10/2026 para Luis Teixeira e Janaina Martins Pereira. Luis no 6D e Janaina no 6G, par central da mesma fileira com acesso ao corredor. Assentos da volta pendentes.
 - **Estacionamento:** Indigo, garagem coberta T3, 15/10 às 7h até 19/10 às 21h; R$ 561,75 pagos. Primeira cancela à esquerda na entrada; mesmo QR na entrada e saída. Tolerância do voucher: 1h na entrada, 3h na saída. [Abrir passe](https://lmteixeira17.github.io/viagem-paris-londres-2026/buenos-aires/estacionamento.html).
 - **Seguro:** dois bilhetes e dois certificados AIG/Mastercard Black, vigência 30/09/2026 a 30/09/2027. Coberturas e regras nos PDFs.
+
+Bagagem da ida: uma mala despachada de até 23 kg no nome de Luis, incluída sem cobrança adicional; nenhuma no nome de Janaina. As duas malas de 10 kg serão bagagem de mão, conforme informado pelo usuário; isso não confirma conformidade dimensional.
 
 ## Transporte, pagamentos e internet
 
@@ -22,7 +24,7 @@ Uma mala grande e duas pequenas; Uber convencional definido para o volume. Na ch
 
 ### 15/10
 
-- 7h · estacionamento / 7h30 · terminal Chegar a Guarulhos Garagem coberta do Terminal 3 reservada e paga. Apresentar o QR Code na primeira cancela à esquerda. Air Canada listada no T3; reconfirmar antes da viagem. Documentos, despacho e embarque.
+- 7h · estacionamento / 7h30 · terminal Chegar a Guarulhos Garagem coberta do Terminal 3 reservada e paga. Apresentar o QR Code na primeira cancela à esquerda. Air Canada listada no T3; reconfirmar antes da viagem. Ir ao balcão da Air Canada em Guarulhos com os passaportes e a mala para despacho. Validação adicional dos documentos, retirada dos cartões de embarque e despacho ainda pendentes.
 - 11h35 → 14h30 Voo GRU → EZE Air Canada 90, conforme comprovante. Voo confirmado; reconferir antes do embarque.
 - Após imigração e retirada das malas Uber ou Cabify para o hotel Comparar preço e espera quando estiverem prontos. Seguir o ponto de encontro indicado no aplicativo. Vocês levarão uma mala grande e duas pequenas; um Uber convencional foi definido para esse volume.
 - 16h30–17h30 · estimativa Check-in e descanso AQ Tailored Suites, Montevideo 937. Check-in a partir das 15h. Chegada depende de imigração, bagagens e trânsito; não colocar ingresso com hora marcada nesta tarde.
@@ -76,12 +78,12 @@ Uma mala grande e duas pequenas; Uber convencional definido para o volume. Na ch
 
 Próximo preparativo: acesso offline nos dois celulares. Guardar o roteiro e o passe no mesmo navegador, baixar/extrair o ZIP com 12 PDFs, salvar contatos e mapa de Buenos Aires/Ezeiza e testar em modo avião com Wi-Fi desligado.
 
-Check-in: ida em 14/10 a partir das 11h35; volta em 18/10 a partir das 16h35. Compra do Teatro Colón definida para a bilheteria em 16/10: chegar às 11h15, tentar visita em português às 11h45. Nenhum ingresso adquirido; sujeito a vagas.
+Check-in de ida concluído em 14/10/2026 para os dois, no AC90 de 15/10/2026, GRU 11h35 → EZE 14h30. A Air Canada exige validação adicional dos documentos em quiosque ou com agente no aeroporto para receber os cartões de embarque. Nenhum cartão utilizável foi recuperado aqui. Ir ao balcão da Air Canada em Guarulhos com os passaportes e a mala para despacho; validação dos documentos, retirada dos cartões e despacho pendentes. Volta: check-in pendente em 18/10 a partir das 16h35. Compra do Teatro Colón definida para a bilheteria em 16/10: chegar às 11h15, tentar visita em português às 11h45. Nenhum ingresso adquirido; sujeito a vagas.
 
 Jantar de chegada: Fervor, El Mirasol de La Recova ou La Cabrera; decidir no dia conforme disposição. Nenhuma mesa reservada para 15/10.
 
 [Comprovantes e offline](https://lmteixeira17.github.io/viagem-paris-londres-2026/buenos-aires/#offline) · [Checklist](https://lmteixeira17.github.io/viagem-paris-londres-2026/buenos-aires/#checklist)
 
-O checklist preserva 39 etapas e 24 confirmações. Pendências vêm primeiro; confirmações ficam recolhidas. Marcações manuais ficam no navegador de cada aparelho.
+O checklist preserva 39 etapas e 25 confirmações. Pendências vêm primeiro; confirmações ficam recolhidas. Marcações manuais ficam no navegador de cada aparelho.
 
 Decisão confirmada em 02/10: comprar Recoleta e Jardín Japonés na hora em 17/10. Etapa de definição dos ingressos concluída; nenhum ingresso comprado. MALBA permanece opcional, com ingresso a verificar apenas se entrar no roteiro.

@@ -13,7 +13,7 @@ assert.equal(keys.length, 39);
 assert.equal(new Set(keys).size, keys.length, 'Chaves do checklist duplicadas');
 const published = [...html.matchAll(/<input type="checkbox"([^>]+)>/g)].map(([, attributes]) => Object.fromEntries([...attributes.matchAll(/data-([\w-]+)="([^"]*)"/g)].map(([, key, value]) => [key, value])));
 const confirmedCount = published.filter(item => item.confirmed === 'true').length;
-assert.equal(confirmedCount, 24);
+assert.equal(confirmedCount, 25);
 assert.equal(published.find(item => item.check === 'insurance').confirmed, 'true');
 assert.equal(published.find(item => item.check === 'insurance').revision, '3');
 const pdfLinks = [...new Set([...html.matchAll(/href="(comprovantes\/[^"#]+\.pdf)"/g)].map(match => match[1]))];
@@ -32,7 +32,7 @@ assert(!html.includes('quatro malas grandes'), 'Remover orientação de categori
 assert(html.includes('Abrir passe Indigo (sem senha)'), 'Instrução do passe deve corresponder ao acesso aberto');
 for (const key of ['seats']) assert.notEqual(published.find(item => item.check === key).confirmed, 'true', 'Cotação não confirma reserva');
 for (const key of ['documents', 'hotel', 'parrilla', 'sunday', 'colon', 'tango', 'insurance', 'transport', 'internet', 'reconfirm', 'outbound', 'inbound']) assert(keys.includes(key), 'Preservar chaves do checklist anterior');
-assert(!/9875622342|JANAINA MARTINS|LUIS TEIXEIRA|codex-clipboard|MYTTTV|Navigo/i.test(html), 'Dados privados ou conteúdo da viagem anterior');
+assert(!/9875622342|codex-clipboard|MYTTTV|Navigo/i.test(html), 'Dados privados ou conteúdo da viagem anterior');
 assert(html.includes('2026, 9, 15') && html.includes('2026, 9, 19'));
 assert(!/Loi Suites|ARC Recoleta|Palladio|MIO sem|Alternativa consultada|hipótese de R\$/i.test(html), 'Retirar hotéis descartados e orçamento hipotético');
 assert(html.includes('R$ 2.834,64') && html.includes('R$ 2.896,81'), 'Usar os valores efetivos do comprovante do hotel');
@@ -64,6 +64,16 @@ function runGuide(initialStorage = '{}', unavailableStorage = false, revisions =
   return { elements, panels, links, anchorLinks, days, checks, events, location, storage: () => storage };
 }
 const app = runGuide();
+assert.equal(published.find(item => item.check === 'outbound').confirmed, 'true');
+assert.equal(published.find(item => item.check === 'outbound').revision, '2');
+for (const key of ['documents', 'boarding', 'inbound', 'seats']) assert.notEqual(published.find(item => item.check === key).confirmed, 'true', key + ' permanece pendente');
+assert.equal(published.find(item => item.check === 'inbound').revision, '1');
+assert.equal(published.find(item => item.check === 'seats').revision, '5');
+assert.equal(published.find(item => item.check === 'boarding').revision, '2');
+for (const text of ['Luis Teixeira', 'Janaina Martins Pereira', '6D', '6G', '23 kg', 'duas malas de 10 kg', 'Nenhum cartão utilizável foi recuperado aqui.', 'não confirma conformidade dimensional']) assert(html.includes(text), 'Dados autorizados e pendências: ' + text);
+assert(runGuide('{"outbound":false}').checks.find(check => check.dataset.check === 'outbound').checked && app.checks.find(check => check.dataset.check === 'outbound').disabled, 'Check-in de ida confirmado prevalece sobre marcação local');
+const priorTripState = runGuide('{"seats":true,"boarding":true,"documents":true}');
+for (const key of ['seats', 'boarding', 'documents']) assert.equal(priorTripState.checks.find(check => check.dataset.check === key).checked, false, 'Revisão invalida marcação antiga: ' + key);
 assert(runGuide('{"insurance":false}').checks.find(check => check.dataset.check === 'insurance').checked && app.checks.find(check => check.dataset.check === 'insurance').disabled, 'Seguro emitido permanece confirmado em todos os aparelhos');
 assert.equal(published.find(item => item.check === 'colon').revision, '2');
 assert(runGuide('{"colon":false}').checks.find(check => check.dataset.check === 'colon').checked && app.checks.find(check => check.dataset.check === 'colon').disabled, 'Decisão de comprar na bilheteria permanece concluída em todos os aparelhos');
@@ -99,7 +109,7 @@ const pendingCheck = app.checks.find(check => check.dataset.check === 'offline')
 pendingCheck.checked = true;
 pendingCheck.listeners.change();
 assert.equal(app.elements.progress.value, confirmedCount + 1);
-assert.equal(app.elements['remaining-text'].textContent, '14 tarefas em aberto');
+assert.equal(app.elements['remaining-text'].textContent, '13 tarefas em aberto');
 assert.equal(runGuide(app.storage()).checks.find(check => check.dataset.check === 'offline').checked, true, 'Restaurar marcação local');
 assert.equal(app.elements['state-offline'].textContent, 'Marcado neste aparelho');
 assert.equal(runGuide().checks.find(check => check.dataset.check === 'offline').checked, false, 'Marcação local não vira reserva publicada');
