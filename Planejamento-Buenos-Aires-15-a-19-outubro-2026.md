@@ -1,6 +1,6 @@
 # Buenos Aires · 15 a 19 de outubro de 2026
 
-Guia atual para duas pessoas. Atualizado em 14/10/2026.
+Guia atual para duas pessoas. Atualizado em 15/10/2026.
 
 [Abrir o guia no celular](https://lmteixeira17.github.io/viagem-paris-londres-2026/buenos-aires/)
 
@@ -29,7 +29,7 @@ Uma mala grande e duas pequenas; Uber convencional definido para o volume. Na ch
 - Após imigração e retirada das malas Uber ou Cabify para o hotel Comparar preço e espera quando estiverem prontos. Seguir o ponto de encontro indicado no aplicativo. Vocês levarão uma mala grande e duas pequenas; um Uber convencional foi definido para esse volume.
 - 16h30–17h30 · estimativa Check-in e descanso AQ Tailored Suites, Montevideo 937. Check-in a partir das 15h. Chegada depende de imigração, bagagens e trânsito; não colocar ingresso com hora marcada nesta tarde.
 - Fim da tarde Primeiro passeio em Recoleta Av. Alvear, entorno da Basílica do Pilar e praças, conforme a localização do hotel e a disposição.
-- 20h–20h30 Jantar de carnes · escolher conforme a disposição Três opções: Fervor ou El Mirasol de La Recova, em Recoleta; La Cabrera, em Palermo, de Uber. Fervor é a primeira opção. Escolha no dia; nenhuma mesa reservada. Ver as três opções e como chegar →
+- Noite · horário não informado. Jantar escolhido: Aires Criollos — atualização informada durante a viagem em 15/10. Plano original: Fervor como primeira opção, além de El Mirasol de La Recova e La Cabrera; a estimativa de 20h–20h30 pertencia ao plano original.
 
 ### 16/10
 
@@ -80,7 +80,7 @@ Próximo preparativo: acesso offline nos dois celulares. Guardar o roteiro e o p
 
 Check-in de ida concluído em 14/10/2026 para os dois, no AC90 de 15/10/2026, GRU 11h35 → EZE 14h30. A Air Canada exige validação adicional dos documentos em quiosque ou com agente no aeroporto para receber os cartões de embarque. Nenhum cartão utilizável foi recuperado aqui. Ir ao balcão da Air Canada em Guarulhos com os passaportes e a mala para despacho; validação dos documentos, retirada dos cartões e despacho pendentes. Volta: check-in pendente em 18/10 a partir das 16h35. Compra do Teatro Colón definida para a bilheteria em 16/10: chegar às 11h15, tentar visita em português às 11h45. Nenhum ingresso adquirido; sujeito a vagas.
 
-Jantar de chegada: Fervor, El Mirasol de La Recova ou La Cabrera; decidir no dia conforme disposição. Nenhuma mesa reservada para 15/10.
+Jantar escolhido: Aires Criollos — atualização informada durante a viagem em 15/10. O plano original tinha Fervor como primeira opção, além de El Mirasol de La Recova e La Cabrera.
 
 [Comprovantes e offline](https://lmteixeira17.github.io/viagem-paris-londres-2026/buenos-aires/#offline) · [Checklist](https://lmteixeira17.github.io/viagem-paris-londres-2026/buenos-aires/#checklist)
 
