@@ -1,6 +1,6 @@
 # Buenos Aires · 15 a 19 de outubro de 2026
 
-Guia atual para duas pessoas. Atualizado em 15/10/2026.
+Guia atual para duas pessoas. Atualizado em 18/10/2026.
 
 [Abrir o guia no celular](https://lmteixeira17.github.io/viagem-paris-londres-2026/buenos-aires/)
 
@@ -63,7 +63,8 @@ Uma mala grande e duas pequenas; Uber convencional definido para o volume. Na ch
 - 14h30–16h Calle Defensa e Mercado de San Telmo Pausa para café. A feira de rua e o mercado coberto são atrações distintas.
 - 16h–16h30 Seguir para Puerto Madero Check-in online da volta abre às 16h35; fazer pelo celular quando estiverem parados.
 - 16h30–18h Puente de la Mujer e diques Caminhada sem pressa, ajustando à disposição e ao clima.
-- Noite Jantar leve e malas Confirmar o transporte de segunda e guardar documentos na bagagem de mão.
+- **19h30 · Sottovoce, aguardando confirmação:** pedido para duas pessoas em 18/10, em nome de Luis Teixeira, enviado e entregue pelo WhatsApp +54 9 11 3691-3317. Av. del Libertador 1098, Recoleta. Reserva ainda não confirmada.
+- Após o jantar: organizar malas, confirmar o transporte de segunda e guardar documentos na bagagem de mão.
 
 ### 19/10
 

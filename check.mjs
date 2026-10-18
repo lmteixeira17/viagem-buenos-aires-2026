@@ -24,7 +24,7 @@ assert.equal(published.find(item => item.check === 'offline').status, 'Pendente'
 assert.equal(published.find(item => item.check === 'offline').revision, '2', 'Reabrir a etapa invalida marcações antigas');
 assert(html.includes('id="prepare-offline"') && html.includes('id="offline-status"'), 'Incluir botão e retorno acessível para preparar o celular');
 assert(html.includes('no mesmo navegador') && html.includes('aba anônima'), 'Explicar onde a cópia offline fica disponível');
-assert(!/\b\d{13}\b/.test(html.replaceAll('https://wa.me/5491168754000', '').replaceAll('https://wa.me/5491130698361', '')), 'Não publicar localizador de reserva; WhatsApps oficiais dos restaurantes são permitidos');
+assert(!/\b\d{13}\b/.test(html.replaceAll('https://wa.me/5491168754000', '').replaceAll('https://wa.me/5491130698361', '').replaceAll('https://wa.me/5491136913317', '')), 'Não publicar localizador de reserva; WhatsApps oficiais dos restaurantes são permitidos');
 for (const key of ['hotel', 'hotel-choice', 'tango', 'tango-choice', 'tango-transfer', 'flight-review', 'flight-prevention', 'baggage-allowance', 'transport', 'brazil-transfer', 'parrilla', 'payments', 'sunday']) assert.equal(published.find(item => item.check === key).confirmed, 'true');
 assert.equal(published.find(item => item.check === 'transport').revision, '2', 'Atualizar a decisão invalida marcações locais antigas');
 assert(html.includes('uma mala grande e duas pequenas') && html.includes('Uber convencional'), 'Registrar bagagem e transporte informados pelo viajante');
