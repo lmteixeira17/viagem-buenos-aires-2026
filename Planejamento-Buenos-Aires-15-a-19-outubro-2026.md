@@ -63,7 +63,7 @@ Uma mala grande e duas pequenas; Uber convencional definido para o volume. Na ch
 - 14h30–16h Calle Defensa e Mercado de San Telmo Pausa para café. A feira de rua e o mercado coberto são atrações distintas.
 - 16h–16h30 Seguir para Puerto Madero Check-in online da volta abre às 16h35; fazer pelo celular quando estiverem parados.
 - 16h30–18h Puente de la Mujer e diques Caminhada sem pressa, ajustando à disposição e ao clima.
-- **19h30 · Sottovoce, aguardando confirmação:** pedido para duas pessoas em 18/10, em nome de Luis Teixeira, enviado e entregue pelo WhatsApp +54 9 11 3691-3317. Av. del Libertador 1098, Recoleta. Reserva ainda não confirmada.
+- **19h30 · jantar a definir:** Sottovoce respondeu pelo WhatsApp em 18/10 às 12h08 que ambos os turnos estão completos e não está aceitando reservas. Pedido para duas pessoas não aceito; nenhuma mesa reservada. Escolher outro restaurante.
 - Após o jantar: organizar malas, confirmar o transporte de segunda e guardar documentos na bagagem de mão.
 
 ### 19/10

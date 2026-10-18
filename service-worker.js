@@ -1,5 +1,5 @@
 'use strict';
-const CACHE_NAME = 'buenos-aires-offline-v4';
+const CACHE_NAME = 'buenos-aires-offline-v5';
 // ponytail: cache only the guide and parking pass; email attachments and external maps stay in their apps. A private document vault would require separate, device-local storage.
 const PAGE_URLS = ['./', './index.html', './estacionamento.html'].map(path => new URL(path, self.registration.scope).href);
 async function cacheTripPages() {
